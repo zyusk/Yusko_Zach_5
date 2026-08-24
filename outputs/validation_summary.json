@@ -1,0 +1,48 @@
+{
+  "fred_series_id": "A02083USA581NNBR",
+  "fred_series_title": "Increases in Railroad Track Mileage Operated",
+  "fred_series_type": "flow (annual increase), NOT a level -- confirmed via declared units 'Thousands of Miles' on the FRED series page, cumulated here to reconstruct an implied level",
+  "mape_years": [
+    1947,
+    1948
+  ],
+  "headline": {
+    "anchor_year": 1946,
+    "anchor_rationale": "Last manually-verified panel year before the 1947/1948 validation window -- only 1-2 years of compounding, the most honest answer to 'does this benchmark predict 1947/1948'.",
+    "mape_pct": 0.12,
+    "years": [
+      {
+        "year": 1947,
+        "panel": 238209.0,
+        "fred_implied": 238369.0,
+        "pct_error": 0.07
+      },
+      {
+        "year": 1948,
+        "panel": 237756.0,
+        "fred_implied": 238169.0,
+        "pct_error": 0.17
+      }
+    ]
+  },
+  "context": {
+    "anchor_year": 1900,
+    "anchor_rationale": "Panel's first year -- 47 years of compounding. Kept and disclosed (not hidden) because the large gap it produces is itself a real finding: it opens almost entirely during 1900-1930 and then plateaus, consistent with A02083 measuring ALL track mileage (incl. 2nd/3rd tracks added to existing routes during the double/triple-tracking era) rather than single-track/route mileage.",
+    "mape_pct": 38.19,
+    "years": [
+      {
+        "year": 1947,
+        "panel": 238209.0,
+        "fred_implied": 328956.03,
+        "pct_error": 38.1
+      },
+      {
+        "year": 1948,
+        "panel": 237756.0,
+        "fred_implied": 328756.03,
+        "pct_error": 38.27
+      }
+    ]
+  },
+  "plot": "outputs/figures/panel_vs_fred_validation.png"
+}

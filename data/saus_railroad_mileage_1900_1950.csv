@@ -1,0 +1,50 @@
+year,single_track_mileage,source,page_number,notes
+1900,192556.03,manual,333,Verified by Zach Yusko. Consolidated single/second/third-track table on 1918 volume p333 (covers 1900-1916+ in one table); supersedes earlier per-year reading
+1901,195561.92,manual,333,Verified by Zach Yusko. Consolidated single/second/third-track table on 1918 volume p333; supersedes earlier per-year reading
+1902,200154.56,manual,333,Verified by Zach Yusko. Consolidated single/second/third-track table on 1918 volume p333; supersedes earlier per-year reading
+1903,205313.54,manual,333,Verified by Zach Yusko. Consolidated single/second/third-track table on 1918 volume p333; supersedes earlier per-year reading
+1904,212243.2,manual,333,Verified by Zach Yusko. Consolidated single/second/third-track table on 1918 volume p333; supersedes earlier per-year reading
+1905,216973.61,manual,333,Verified by Zach Yusko. Consolidated single/second/third-track table on 1918 volume p333; supersedes earlier per-year reading
+1906,222340.3,manual,333,Verified by Zach Yusko. Consolidated single/second/third-track table on 1918 volume p333; supersedes earlier per-year reading
+1907,227454.83,manual,333,Verified by Zach Yusko. Consolidated single/second/third-track table on 1918 volume p333; supersedes earlier per-year reading
+1908,230494.02,manual,333,Verified by Zach Yusko. Consolidated single/second/third-track table on 1918 volume p333; supersedes earlier per-year reading
+1909,235402.09,manual,333,Verified by Zach Yusko. Consolidated single/second/third-track table on 1918 volume p333
+1910,240830.75,manual,333,Verified by Zach Yusko. Consolidated single/second/third-track table on 1918 volume p333
+1911,246238.02,manual,333,Verified by Zach Yusko. Consolidated single/second/third-track table on 1918 volume p333
+1912,249852.06,manual,333,Verified by Zach Yusko. Consolidated single/second/third-track table on 1918 volume p333
+1913,253470.2,manual,333,Verified by Zach Yusko. Consolidated single/second/third-track table on 1918 volume p333
+1914,256547.1,manual,333,Verified by Zach Yusko. Consolidated single/second/third-track table on 1918 volume p333
+1915,257569.32,manual,333,Verified by Zach Yusko. Consolidated single/second/third-track table on 1918 volume p333
+1916,259705.18,manual,333,"Verified by Zach Yusko. Calendar-year figure (table also separately lists year-ended-June-30: 259,210.86); consolidated table on 1918 volume p333"
+1917,259705,manual,528,"Verified by Zach Yusko. saus_1948.pdf No. 564 (Steam Railways--Mileage Owned and Mileage Operated, 1890 to 1946), final/most-authoritative cross-validated table; independently OCR-verified against this exact page"
+1918,258507,manual,528,"Verified by Zach Yusko. saus_1948.pdf No. 564, full 1890-1946 table; earlier draft reading from saus_1920.pdf p353 (No. 227/228) had a Class-I-only scope issue, corrected here; independently OCR-verified"
+1919,258525,manual,528,"Verified by Zach Yusko. saus_1948.pdf No. 564, full 1890-1946 table; independently OCR-verified"
+1920,259941,manual,528,"Verified by Zach Yusko. saus_1948.pdf No. 564, full 1890-1946 table; independently OCR-verified"
+1921,258362,manual,528,"Verified by Zach Yusko. saus_1948.pdf No. 564, full 1890-1946 table; independently OCR-verified"
+1922,257425,manual,528,"Verified by Zach Yusko. saus_1948.pdf No. 564, full 1890-1946 table; independently OCR-verified"
+1923,258084,manual,528,"Verified by Zach Yusko. saus_1948.pdf No. 564, full 1890-1946 table; independently OCR-verified"
+1924,258238,manual,528,"Verified by Zach Yusko. saus_1948.pdf No. 564, full 1890-1946 table; independently OCR-verified"
+1925,258631,manual,528,"Verified by Zach Yusko. saus_1948.pdf No. 564, full 1890-1946 table; also where the 'Operated' column became the standing authoritative source per saus_1925.pdf p388 (No. 378/379); independently OCR-verified"
+1926,258815,manual,528,"Verified by Zach Yusko. OVERRIDES automated pipeline value 240293 (single_track_mileage_interim.csv), which was a footnote misread on an unrelated by-state table (No. 390) -- that 240293 figure is real but belongs to 1910, not 1926 (confirmed: it's 1910's 'road owned' column on this same p528 table). 258,815 independently OCR-verified against saus_1948.pdf No. 564, and fits the surrounding trend (1925: 258,631; 1927: 259,639) where 240,293 was an unexplained outlier."
+1927,259639,manual,528,"Verified by Zach Yusko. saus_1948.pdf No. 564, full 1890-1946 table; independently OCR-verified"
+1928,260546,manual,528,"Verified by Zach Yusko. saus_1948.pdf No. 564, full 1890-1946 table; independently OCR-verified"
+1929,260570,manual,528,"Verified by Zach Yusko. saus_1948.pdf No. 564, full 1890-1946 table; independently OCR-verified"
+1930,260440,manual,528,"Verified by Zach Yusko. saus_1948.pdf No. 564, full 1890-1946 table; cross-validates saus_1930.pdf p410 (No. 424/425), which is also where the 1926 discrepancy first surfaced; independently OCR-verified"
+1931,259999,manual,528,"Verified by Zach Yusko. saus_1948.pdf No. 564, full 1890-1946 table; independently OCR-verified"
+1932,258869,manual,528,"Verified by Zach Yusko. saus_1948.pdf No. 564, full 1890-1946 table; independently OCR-verified"
+1933,256741,manual,528,"Verified by Zach Yusko. saus_1948.pdf No. 564, full 1890-1946 table; independently OCR-verified"
+1934,254882,manual,528,"Verified by Zach Yusko. saus_1948.pdf No. 564, full 1890-1946 table; cross-validates saus_1935.pdf p379 (No. 409/410); independently OCR-verified"
+1935,252930,manual,528,"Verified by Zach Yusko. saus_1948.pdf No. 564, full 1890-1946 table; independently OCR-verified"
+1936,251542,manual,528,"Verified by Zach Yusko. saus_1948.pdf No. 564, full 1890-1946 table; independently OCR-verified"
+1937,250582,manual,528,"Verified by Zach Yusko. saus_1948.pdf No. 564, full 1890-1946 table; independently OCR-verified"
+1938,248474,manual,528,"Verified by Zach Yusko. saus_1948.pdf No. 564, full 1890-1946 table; independently OCR-verified"
+1939,246922,manual,528,"Verified by Zach Yusko. saus_1948.pdf No. 564, full 1890-1946 table; cross-validates saus_1940.pdf p449 (No. 473/474); independently OCR-verified"
+1940,245740,manual,528,"Verified by Zach Yusko. saus_1948.pdf No. 564, full 1890-1946 table; independently OCR-verified"
+1941,244263,manual,528,"Verified by Zach Yusko. saus_1948.pdf No. 564, full 1890-1946 table; independently OCR-verified"
+1942,241737,manual,528,"Verified by Zach Yusko. saus_1948.pdf No. 564, full 1890-1946 table; independently OCR-verified"
+1943,240745,manual,528,"Verified by Zach Yusko. saus_1948.pdf No. 564, full 1890-1946 table; independently OCR-verified"
+1944,240215,manual,528,"Verified by Zach Yusko. saus_1948.pdf No. 564, full 1890-1946 table; cross-validates saus_1946.pdf p510 (No. 559); independently OCR-verified"
+1945,239438,manual,528,"Verified by Zach Yusko. saus_1948.pdf No. 564, full 1890-1946 table; independently OCR-verified"
+1946,239069,manual,528,"Verified by Zach Yusko. saus_1948.pdf No. 564, full 1890-1946 table, this table's own final row; independently OCR-verified"
+1947,238209,manual,509,"Verified by Zach Yusko. saus_1950.pdf No. 591 (Steam Railways--Mileage Owned and Mileage Operated, 1925 to 1948), 'Road, first track' row (1925/1930/1935/1940/1945/1947/1948 columns); independently OCR-verified. Same page as the automated pipeline's 1950 entry -- that entry used the 'Class I railways' row instead (226,704), a subset; this row is the unqualified figure."
+1948,237756,manual,509,"Verified by Zach Yusko. saus_1950.pdf No. 591, 'Road, first track' row; independently OCR-verified. Completes the 1900-1948 panel -- only 1949 (automated, not yet manually spot-checked) and 1950 (automated 'Class I' value, override pending via --year 1950) remain outside manual_review.csv."

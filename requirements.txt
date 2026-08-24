@@ -1,0 +1,15 @@
+# Mirrors pyproject.toml's [project.dependencies] for anyone not using uv.
+# Source of truth is pyproject.toml -- regenerate this if that changes.
+curl_cffi>=0.7.0
+numpy<2
+pandas>=2.2.0
+pillow>=10.4.0
+pymupdf>=1.24.0
+pytesseract>=0.3.13
+requests>=2.34.2
+
+# dev / test only
+ipykernel>=7.3.0
+matplotlib>=3.10.0
+pytest>=9.1.1
+python-dotenv>=1.2.2

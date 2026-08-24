@@ -1,0 +1,11 @@
+field,value
+variable,single_track_mileage
+definition,"Best-available annual national single-track-equivalent steam railroad mileage for the continental United States, in route-miles. Where an explicit 'Single track' column exists in the source SAUS/ICC table, that figure is used; otherwise the historically-conventional equivalent ('first track', 'road operated', 'main track') is used and labeled as such in that row's notes -- per the SAUS tables' own footnote convention ('the term ""mileage"" signifies single-track mileage'), these are the same underlying measurement concept under different era-specific names, not interchangeable metrics being silently conflated."
+n,49
+min,192556.03
+max,260570
+mean,244454.04
+median,250582.0
+admissible_range_low,140000
+admissible_range_high,300000
+admissible_range_rationale,"Real values across this panel run 192556.03-260570; 140,000-300,000 is the wider bound used throughout this pipeline's own extraction/validation code (ocr.py's PLAUSIBLE_VALUE_RANGE) to reject clearly-wrong OCR misreads, not a tight statistical bound on this specific panel."

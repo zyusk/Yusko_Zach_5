@@ -1,0 +1,13 @@
+{
+  "row_count": 49,
+  "nominal_range": "1900-1950",
+  "nominal_year_count": 51,
+  "na_share": 0.0392,
+  "manual_rows": 49,
+  "automated_rows": 0,
+  "years_excluded": {
+    "1949": "Automated value confirmed mislabeled (saus_1949.pdf Table 587 only reports through 1947 -- the extracted figure is real 1947 data, not 1949; see single_track_mileage_interim.csv's excluded_reason for the full diagnosis). No manual review has been done for this year yet.",
+    "1950": "Automated value confirmed mislabeled (saus_1950.pdf Table 591 only reports through 1948 -- the extracted figure is real 1948 data, a Class I subset at that; see single_track_mileage_interim.csv's excluded_reason for the full diagnosis). No manual review has been done for this year yet."
+  },
+  "git_commit": null
+}

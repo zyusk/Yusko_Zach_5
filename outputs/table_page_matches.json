@@ -1,0 +1,3973 @@
+{
+  "1900": {
+    "pdf": "data/raw/saus_1900.pdf",
+    "candidate_pages": [
+      11,
+      398,
+      441
+    ],
+    "matches": [
+      {
+        "page_number": 11,
+        "matched_patterns": [
+          "RAILWAY MILEAGE"
+        ],
+        "snippet": "CONTENTS. XI R a il r o a d s . F r e i g h t r a t e s . No. Page. 100. Railroads, mileage of, in operation and con\u00ad structed each year, 1832 to 1899...................... 374 101. Railroads, mileage"
+      },
+      {
+        "page_number": 398,
+        "matched_patterns": [
+          "MILEAGE OF RAILROADS"
+        ],
+        "snippet": "382 RAILROADS. No. 107.\u2014MILEAGE of RAILROADS in the U n it e d State s, iiy States and T e rr itor ies, Jun e 30, 1899. [From the statistical report of the Interstate Commerce Commission.] Propor\u00ad tio"
+      },
+      {
+        "page_number": 441,
+        "matched_patterns": [
+          "RAILROAD MILEAGE"
+        ],
+        "snippet": "POST-OFFICES, POST-ROUTES, ETC. 425 No. 142.\u2014 N u m ber of POST-OFFICES, E x t e n t of POST-ROUTES, a n d R e v e n u e a n d E x pe n d itu r e s of the POST-OFFICE DEPARTMENT, in c lu d in g am oun"
+      }
+    ]
+  },
+  "1901": {
+    "pdf": "data/raw/saus_1901.pdf",
+    "candidate_pages": [
+      11,
+      414,
+      417,
+      461
+    ],
+    "matches": [
+      {
+        "page_number": 11,
+        "matched_patterns": [
+          "RAILWAY MILEAGE"
+        ],
+        "snippet": "C r o p s a n d f a r m a n i\u00ad m a ls \u2014 Continued. R a i l r o a d s . F r e i g h t r a t e s . No. ' Page. '101. Hay crop, by States, 1896 to 1900........................ 384 103. Potato crop, by St"
+      },
+      {
+        "page_number": 414,
+        "matched_patterns": [
+          "MILEAGE OF RAILROADS"
+        ],
+        "snippet": "3 9 8 RAILROADS. No. 112.\u2014 M ILEAGE of R A ILRO AD S in the U nited States, b y States a n d Territories, June 30, 1900. [From the statistical report of the Interstate Commerce Commission.] State or T"
+      },
+      {
+        "page_number": 417,
+        "matched_patterns": [
+          "MILEAGE OF RAILROADS"
+        ],
+        "snippet": "RAILROADS. 401 No. 116,\u2014R e s u l t s o f t h e PASSENGER a n d FREIGHT SERVICE o n RAILROADS in t h e U n i t e d S t a t e s f o r t h e Y e a r s e n d in g J u n e 30,1895 t o 1900. [From tlie Sta"
+      },
+      {
+        "page_number": 461,
+        "matched_patterns": [
+          "RAILROAD MILEAGE"
+        ],
+        "snippet": "POST-OFFICES, POST-ROUTES, ETC. 445 No. 149.\u2014N u m b e r o f P O S T -O F F IC E S , E x t e n t o f P O S T -R O U T E S , a s d R e v e n u e a n d E x p e n d i t u r e s o f t h e P O S T -O F F I"
+      }
+    ]
+  },
+  "1902": {
+    "pdf": "data/raw/saus_1902.pdf",
+    "candidate_pages": [
+      411,
+      414,
+      415,
+      459
+    ],
+    "matches": [
+      {
+        "page_number": 411,
+        "matched_patterns": [
+          "MILEAGE OF RAILROADS"
+        ],
+        "snippet": "RAILROADS. 411 N o . 1 1 1 . \u2014 M I L E A G E o f R A I L R O A D S i n t h e U n i t e d S t a t e s , b y S t a t e s a n d T e r r i t o r i e s , J u n e 3 0 , 1 9 0 1 . [From the statistical repor"
+      },
+      {
+        "page_number": 414,
+        "matched_patterns": [
+          "MILEAGE OF RAILROADS"
+        ],
+        "snippet": "414 RAILROADS. No. 115.\u2014Results of the PASSENGER and FREIGHT SERVICE on RAIL\u00ad ROADS i n the United States for the Years ending June 30,1896 to 1901. [From the statistical report of the Interstate Comm"
+      },
+      {
+        "page_number": 415,
+        "matched_patterns": [
+          "RAILWAY MILEAGE",
+          "TRACK MILEAGE"
+        ],
+        "snippet": "S T R E E T A N D E L E V A T E D R A I L W A Y M I L E A G E . 415 No. 117.\u2014STREET a n d ELEVATED R A I L W A Y M I L E A G E , N u m b e r o f c a r s , a n d C A P I T A L I Z A T I O N i n t h e U"
+      },
+      {
+        "page_number": 459,
+        "matched_patterns": [
+          "RAILROAD MILEAGE"
+        ],
+        "snippet": "P O S T -O F F IC E S , P O S T -R O U T E S , ET C. 459 N o . 1 5 0 \u2014 N U M B E R o f P O S T - O F F I C E S , E x t e n t o f POST-ROUTES, a n d R e v \u00ad e n u e a n d E x p e n d i t u r e s o f t "
+      }
+    ]
+  },
+  "1903": {
+    "pdf": "data/raw/saus_1903.pdf",
+    "candidate_pages": [
+      403,
+      406,
+      407,
+      452
+    ],
+    "matches": [
+      {
+        "page_number": 403,
+        "matched_patterns": [
+          "MILEAGE OF RAILROADS"
+        ],
+        "snippet": "RAILROADS. 4 0 3 No. 107.\u2014MILEAGE o f RAILROADS i n t h e U n i t e d S t a t e s , b y S t a t e s a n d T e r r i t o r i e s , .Tu n e 30, 1902. [From the statistical report of the Interstate Comme"
+      },
+      {
+        "page_number": 406,
+        "matched_patterns": [
+          "MILEAGE OF RAILROADS"
+        ],
+        "snippet": "4 0 6 RAILROADS. No. 111.\u2014R e s u l t s o f t h e PASSENGER a n d FREIGHT SERVICE o n RAIL\u00ad ROADS in t h e U n it e d St a t e s f o r t h e Y e a r s e n d in g J u n e 30,1897 to 1902. [From the sta"
+      },
+      {
+        "page_number": 407,
+        "matched_patterns": [
+          "RAILWAY MILEAGE",
+          "TRACK MILEAGE"
+        ],
+        "snippet": "S T R E E T A N D E L E V A T E D R A IL W A Y M IL E A G E . 407 No. 113.\u2014STREET a n d ELEVATED R A IL W A Y M IL E A G E , N u m b e r o f c a r s a n d C A P IT A L IZ A T IO N in t iie U N IT E D "
+      },
+      {
+        "page_number": 452,
+        "matched_patterns": [
+          "RAILROAD MILEAGE"
+        ],
+        "snippet": "4 5 2 POST-OFFICES, POST-ROUTES, ETC No. 148 \u2014NUMBER o f POST-OFFICES, E x t e n t o f POST-ROUTES, a n i> R e v \u00ad e n u e a n d E x p e n d it u r e s o f t h e POST-OFFICE DEPARTMENT, in c l u d in "
+      }
+    ]
+  },
+  "1904": {
+    "pdf": "data/raw/saus_1904.pdf",
+    "candidate_pages": [
+      403,
+      406,
+      407,
+      457
+    ],
+    "matches": [
+      {
+        "page_number": 403,
+        "matched_patterns": [
+          "MILEAGE OF RAILROADS"
+        ],
+        "snippet": "No. 107.\u2014 MILEAGE o f RAILROADS rx t h e U n it e d St a t e s , b y St a t e s a n d T e r r it o r ie s , J u n e 30, 1903. RAILROADS. T 4 0 3 [From the statistical report of the interstate Commerce"
+      },
+      {
+        "page_number": 406,
+        "matched_patterns": [
+          "MILEAGE OF RAILROADS"
+        ],
+        "snippet": "4 0 6 RAILROADS. N o . 1 1 1 . \u2014 R e s u l t s o f t h e P A S S E N G E R a n d F R E I G H T S E R V I C E o x R A I L \u00ad R O A D S IX TH E U x iT E D STATES FO /t TH E YEA RS EX D IX G JU X E 30, 18"
+      },
+      {
+        "page_number": 407,
+        "matched_patterns": [
+          "TRACK MILEAGE"
+        ],
+        "snippet": "STREET AND ELEVATED RAILWAYS. 4 0 7 No. 113.\u2014STREET a n d ELEVATED RAILW AYS, M i l e a g e , N u m b e r o f c a r s , a n d C a p it a l iz a t io n in Th e UNITED STATES f o r 1903. [From the Stree"
+      },
+      {
+        "page_number": 457,
+        "matched_patterns": [
+          "RAILROAD MILEAGE"
+        ],
+        "snippet": "POST-OFFICES, POST-ROUTES, ETC. 457 No. 151.\u2014NUMBER of POST-OFFICES, E xtent of POST-ROUTES, and R ev\u00ad enue and E xpenditures of the POST-OFFICE DEPARTMENT, including AMOUNTS PAID FOR TRANSPORTATION O"
+      }
+    ]
+  },
+  "1905": {
+    "pdf": "data/raw/saus_1905.pdf",
+    "candidate_pages": [
+      11,
+      12,
+      551,
+      552,
+      558,
+      562,
+      600
+    ],
+    "matches": [
+      {
+        "page_number": 11,
+        "matched_patterns": [
+          "MILEAGE OF RAILROADS"
+        ],
+        "snippet": "1 2 CONTENTS. T able 159.\u2014 Annual average import prices of leading articles of merchandise imported into the United States: 1883 to 1905 ............................................................. T"
+      },
+      {
+        "page_number": 12,
+        "matched_patterns": [
+          "RAILROAD MILEAGE"
+        ],
+        "snippet": "CONTENTS. 13 M E R C H A N T M A R IN E . Pago. T able 186.\u2014 Merchant marine of the.U nited States: Tonnage of sailing and steam vessels, 1877.to 1905.................................................."
+      },
+      {
+        "page_number": 551,
+        "matched_patterns": [
+          "MILEAGE OF RAILROADS"
+        ],
+        "snippet": "TRANSPORTATION, No. 1 \u00ab 2 . \u2014 MILEAGE OF RAILROADS IN OPERATION: B y States and G roups op States, C a le n d a r Y ears 1860, 1870, 1880, 1890, 1900, an d 1902 to 1904. [From Poor\u2019s Railroad Manual.]"
+      },
+      {
+        "page_number": 552,
+        "matched_patterns": [
+          "MILEAGE OF RAILROADS"
+        ],
+        "snippet": "5 5 2 RAILROADS, N o . 1 6 2 . \u2014 M ile a g e of R ailroads in O pe r a tio n, etc., C a le n d a r Y ears 1860, 1870, 1880, 1890, 1900, a n d 1902 to 1904\u2014 C ontinued. Group and State. 1860 1870 1880 "
+      },
+      {
+        "page_number": 558,
+        "matched_patterns": [
+          "MILEAGE OF RAILROADS"
+        ],
+        "snippet": "5 5 8 RAILROADS, No. 1 6 8 . \u2014 M I L E A G E O F R A I L R O A D S : B y States an d T e r r i t o r i e s , J u n e 30, 1904. v [From the statistical report of the Interstate Commerce Commission.] St"
+      },
+      {
+        "page_number": 562,
+        "matched_patterns": [
+          "TRACK MILEAGE"
+        ],
+        "snippet": "5 6 2 STREET AND ELEVATED RAILWAYS. No. 1 7 4 .\u2014 STREET AND ELEVATED RAILWAYS. 1904: M ileag e, N umber op C ars, a n d C a pita liza tio n, by States an d T erritories, A rran ged G e o g r a p h ic "
+      },
+      {
+        "page_number": 600,
+        "matched_patterns": [
+          "RAILROAD MILEAGE"
+        ],
+        "snippet": "6 0 0 RAILWAY-MAIL SERVICE, [From the annual reports of the Postmaster-General.] No. 2 0 3 .\u2014 RAILWAY-MAIL SERVICE: R a i l r o a d M i l e a g e u p o n w h i c h M a i l w a s C a r r i e d , A n n "
+      }
+    ]
+  },
+  "1906": {
+    "pdf": "data/raw/saus_1906.pdf",
+    "candidate_pages": [
+      11,
+      13,
+      579,
+      580,
+      591,
+      630,
+      701
+    ],
+    "matches": [
+      {
+        "page_number": 11,
+        "matched_patterns": [
+          "MILEAGE OF RAILROADS"
+        ],
+        "snippet": "Page. * Table 165.\u2014Leading articles of grain, groceries, and provisions in the New York market: Prices, 1883 to 1906...................................................................... 568 Table 166"
+      },
+      {
+        "page_number": 13,
+        "matched_patterns": [
+          "RAILROAD MILEAGE"
+        ],
+        "snippet": "14 CONTENTS. MISCELLANEOUS. Page. Table 214.\u2014Post-offices and post routes: Number of post-offices, extent of post routes, and revenue and expenditures of the Post-Office Department, includ- . ing amou"
+      },
+      {
+        "page_number": 579,
+        "matched_patterns": [
+          "MILEAGE OF RAILROADS"
+        ],
+        "snippet": "TRANSPORTATION. No. 1 7 2 . \u2014 MILEAGE OF RAILROADS IN OPERATION: B y S ta te s and G roups of. S tate s, C a le n d a r Y e a rs 1860, 1870, 1880, 1890, 1900, and 1903 to 1905. [From Poor\u2019s Railroad M"
+      },
+      {
+        "page_number": 580,
+        "matched_patterns": [
+          "MILEAGE OF RAILROADS"
+        ],
+        "snippet": "580 RAILROADS. No. 172.\u2014 M il e a g e o f R a il r o a d s in O p e r a t io n , e tc., C a l e n d a r Y e a r s 1860, 1870, 1880, 1890, 1900, a n d 1903 to 1905\u2014 Continued. Group and State. 1860 187"
+      },
+      {
+        "page_number": 591,
+        "matched_patterns": [
+          "TRACK MILEAGE"
+        ],
+        "snippet": "STREET AND ELEVATED RAILWAYS. 591 No. 1 8 5 . \u2014 STREET AND ELEVATED RAILWAYS, 1905: M ileag e, Number o f C ars, and C ap ita liz a tio n , by S ta te s an d T e rrito rie s , A rra n g e d G e o g ra"
+      },
+      {
+        "page_number": 630,
+        "matched_patterns": [
+          "RAILROAD MILEAGE"
+        ],
+        "snippet": "6 3 0 R A I L W A Y -M A IL S E R V IC E . No. 2 1 5 . \u2014 RAILWAY-MAIL SERVICE: R a ilro a d M ile a g e uppN w h ich M a il was C a rrie d , A n n u a l Cost and A v e ra g e Cost p er M ile o f R a i"
+      },
+      {
+        "page_number": 701,
+        "matched_patterns": [
+          "RAILWAY MILEAGE",
+          "RAILROAD MILEAGE"
+        ],
+        "snippet": "63 In tern al debt. Of the total am ount \u00a32,660,645 bore interest at the rate of 1 per cent, and \u00a3471,355 was a noninterest-bearing debt. 64 A gainst this total, it is stated, the Governm ent, on June"
+      }
+    ]
+  },
+  "1907": {
+    "pdf": "data/raw/saus_1907.pdf",
+    "candidate_pages": [
+      9,
+      216,
+      222,
+      233,
+      741
+    ],
+    "matches": [
+      {
+        "page_number": 9,
+        "matched_patterns": [
+          "MILEAGE OF RAILROADS",
+          "RAILROAD MILEAGE"
+        ],
+        "snippet": "1 0 CONTENTS. INTERNAL COMMUNICATION AN D TRANSPORTATION* Table 111.\u2014Post-offices and post routes: Number of post-offices, extent of post routes, and revenue and expenditures of the Post-Office Depart"
+      },
+      {
+        "page_number": 216,
+        "matched_patterns": [
+          "RAILROAD MILEAGE"
+        ],
+        "snippet": "216 RAILWAY-MAIL SERVICE. No. 1 1\u00a3.\u2014RAILWAY-MAIL SERVICE: R a ilr o a d M ile a g e upon w h ich M a il w as C a rrie d , A n n u a l C ost a n d A v e ra g e C ost p er M ile o f R a ilr o a d M a il"
+      },
+      {
+        "page_number": 222,
+        "matched_patterns": [
+          "MILEAGE OF RAILROADS"
+        ],
+        "snippet": "2 2 2 RAILROADS. No. 1 1 7 .\u2014M ile a g e o f R a ilr o a d s in O p era tion , e tc., C a le n d a r Y e a r s 1860, 1870, 1880, 1890, 1900, a n d 1904 t o 1906\u2014Continued. Group and State. 1860 1870 1"
+      },
+      {
+        "page_number": 233,
+        "matched_patterns": [
+          "TRACK MILEAGE"
+        ],
+        "snippet": "STREET AND ELEVATED RAILWAYS. 2 M Jfo. I3\u00abk\u20148T&EET ASTS ELEVATED SAILWATS, 190ft M m a g E , Num ber o * C ars,' a n d O a fita m z a tio n , by S ta tes a n d T e rr ito rie s , A rra n g e d G k og "
+      },
+      {
+        "page_number": 741,
+        "matched_patterns": [
+          "RAILWAY MILEAGE",
+          "RAILROAD MILEAGE"
+        ],
+        "snippet": "^Internal debt. Of 'the total amount \u00a32,660,645 bore interest at the rate of 1 per cent, and \u00a3471,365 was a noninterest-bearing debt. 64 Against this total, it is stated, the Government, on June 30, 1"
+      }
+    ]
+  },
+  "1908": {
+    "pdf": "data/raw/saus_1908.pdf",
+    "candidate_pages": [
+      9,
+      242,
+      248,
+      263,
+      725
+    ],
+    "matches": [
+      {
+        "page_number": 9,
+        "matched_patterns": [
+          "RAILROAD MILEAGE",
+          "LENGTH OF SINGLE",
+          "SINGLE, SECOND",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "1 0 CONTENTS. Table 124.\u2014Average wages and hours of labor of bricklayers in building trades: 1906 and 1907, by principal cities............................................................ 235 Table 12"
+      },
+      {
+        "page_number": 242,
+        "matched_patterns": [
+          "RAILROAD MILEAGE"
+        ],
+        "snippet": "2 4 2 B A I L W A Y -M A I I i S E R V IC E . [From the annual reports of the Postmaster-General.] No. 1 2 \u00a7 .\u2014RAILWAY -MAH SERVICE: R a il r o a d M il e a g e upon w h ic h H a il w a s C a r r ie d"
+      },
+      {
+        "page_number": 248,
+        "matched_patterns": [
+          "SINGLE, SECOND",
+          "SINGLE TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "248 BAILB0AD8. Ro. 134.\u2014RAILROADS: O p e r a te d M ile a g e a n d A n n u a l I n c r e a s e o f M ile a g e * 1832 to 1907.a Year. Miles of line in opera\u00ad tion. Annual increase of mile\u00ad age- Year."
+      },
+      {
+        "page_number": 263,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "No. 149.\u2014FINANCES OF RAILROADS: A n a ly s is op S ta t is t ic s o f R e c e ip t s p rom P a s s e n g e r a n d F r e i g h t S e r v ic e s , 1890 t o 1907. [From the statistical reports of tlic I"
+      },
+      {
+        "page_number": 725,
+        "matched_patterns": [
+          "RAILWAY MILEAGE",
+          "RAILROAD MILEAGE"
+        ],
+        "snippet": "\u201c Deficit of $541,092 made up by subvention of the home Government. 67 Of which 31,300,116 kroner held unappropriated, \u201c Amount of guarantee due from Government to Paraguay Central Railway on April 30"
+      }
+    ]
+  },
+  "1909": {
+    "pdf": "data/raw/saus_1909.pdf",
+    "candidate_pages": [
+      9,
+      256,
+      262,
+      277,
+      281,
+      288,
+      778
+    ],
+    "matches": [
+      {
+        "page_number": 9,
+        "matched_patterns": [
+          "RAILROAD MILEAGE",
+          "LENGTH OF SINGLE",
+          "SINGLE, SECOND",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "10 CONTENTS. Table 126.\u2014Strikes: Establishments involved, strikers, and employees thrown out of work, 1881 to 1905......................................................................................"
+      },
+      {
+        "page_number": 256,
+        "matched_patterns": [
+          "RAILROAD MILEAGE"
+        ],
+        "snippet": "256 BAILWAY-MAIL SERVICE. No. 138.\u2014RAILWAY-MAIL SERVICE: R a ilr o a d M ile a g e upon w h ich M a il was C a rried , A n n u a l C ost an d A v e ra g e C ost p er M ile o f R a ilr o a d M a il T r"
+      },
+      {
+        "page_number": 262,
+        "matched_patterns": [
+          "LENGTH OF SINGLE",
+          "SINGLE, SECOND",
+          "SINGLE TRACK"
+        ],
+        "snippet": "2 6 2 RAILROADS. Wo. 1-44.\u2014RAILROADS: O p era ted M ile a g e a n d A n n u a l In crea se o f M ile a g e , 1832 to 1908.* Year. Miles of line in operar tion. Annual increase of mile\u00ad age. Year. Mile"
+      },
+      {
+        "page_number": 277,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "RAILROADS. 277 No. 150*\u2014FINANCES OF RAILROADS: U n d er S p e cifie d H ea din gs, Y e a r en d ed Ju ne 30, 1908.a [From the statistical reports of the Interstate Commerce Commission.! ANALYSIS OF OP"
+      },
+      {
+        "page_number": 281,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "No. 160.\u2014 FINANCES OF RAILBOADS: A n a lysis o f S ta tistics o f R eceip ts fro m P a s s e n g e r a n d F r e ig h t S e rv ice s, 1890 t o 1908. [From the statistical reports of the Interstate Com"
+      },
+      {
+        "page_number": 288,
+        "matched_patterns": [
+          "TRACK MILEAGE"
+        ],
+        "snippet": "No. 166.\u2014STREET AND ELEVATED RAILWAYS, 1908:\u00bb M ile a g e , Number o f Cars, an d C a p ita liza tion , by S ta tes an d T e rrito rie s and by G e o g ra p h ica l D ivisions. [From, the Street Railw"
+      },
+      {
+        "page_number": 778,
+        "matched_patterns": [
+          "RAILWAY MILEAGE"
+        ],
+        "snippet": "* Figures of commerce include bullion and speoie. 2 Territory of Papua not included. Commerce exclu\u00ad sive of intercolonial trade. 8 Figures of commerce include total imports and ex\u00ad ports of domestic "
+      }
+    ]
+  },
+  "1910": {
+    "pdf": "data/raw/saus_1910.pdf",
+    "candidate_pages": [
+      9,
+      255,
+      260,
+      275,
+      278,
+      285,
+      739
+    ],
+    "matches": [
+      {
+        "page_number": 9,
+        "matched_patterns": [
+          "RAILROAD MILEAGE",
+          "LENGTH OF SINGLE",
+          "SINGLE, SECOND",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "Table 140.\u2014Male population 10 to 15 years of age employed as breadwinners: Number and percentage in all occupations, in agricultural pursuits, and in all other occupations, in the census year 1900, by"
+      },
+      {
+        "page_number": 255,
+        "matched_patterns": [
+          "RAILROAD MILEAGE"
+        ],
+        "snippet": "No. C Tu Y 1879. 1880. 1881. 1882. 1883. 1884. 1885. 1886. 1887. 1888. 1889. 1890. 1891. 1892. 1893. 1894. 1895. 1896. 1897. 1898. 1899. 1900. 1901. 1902. 1903. 1904. 1905. 1906. 1907. 1908s 1909. 191"
+      },
+      {
+        "page_number": 260,
+        "matched_patterns": [
+          "LENGTH OF SINGLE",
+          "SINGLE, SECOND",
+          "SINGLE TRACK",
+          "MILEAGE OPERATED",
+          "TRACK MILEAGE"
+        ],
+        "snippet": "RAILROADS. 261 No. 161*\u2014RAILROADS: O pe r a te d M il e a g e a n d A n n u al I ncrease of M il e a g e* 1832 t o 1909.1 Year. 1832 1833 1834 1835 1836 1837 1838 1839 1840 1841 1842 1843 1844 1845 18"
+      },
+      {
+        "page_number": 275,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "276 RAILROADS. No. 1 7 6 .\u2014FINANCES OP BAILBOADS: U n d e r Spe c ifie d H e a d in g s, Y e a r s e n d e d J u n e 30, 1908 a n d 1909.1 [From the statistical reports of the Interstate Commerce Comm"
+      },
+      {
+        "page_number": 278,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "No. 1 77.\u2014FINANCES OF RAILROADS: A nalysis op S tatistics op R eceipts prom P assenger and F reigh t S ervices, 1890 to 1909. [From the statistical reports of the Interstate Commerce Commission. The t"
+      },
+      {
+        "page_number": 285,
+        "matched_patterns": [
+          "TRACK MILEAGE"
+        ],
+        "snippet": "286 STREET AND ELEVATED RAILWAYS. No. 183*\u2014STREET AND ELEVATED RAILWAYS, 190911 M il e a g e, N um ber of C ars, a n d C ap it a l iza t io n , b y States a n d T erritories a n d b y G eo g r a ph ic"
+      },
+      {
+        "page_number": 739,
+        "matched_patterns": [
+          "RAILWAY MILEAGE"
+        ],
+        "snippet": "1 Figures of commerce include bullion and specie. \u2019 Territory of Papua not included. Commerce exclu\u00ad sive of intercolonial trade. * Figures of commerce include total imports and ex* ports of domestic "
+      }
+    ]
+  },
+  "1911": {
+    "pdf": "data/raw/saus_1911.pdf",
+    "candidate_pages": [
+      9,
+      275,
+      279,
+      280,
+      293,
+      296,
+      303,
+      769
+    ],
+    "matches": [
+      {
+        "page_number": 9,
+        "matched_patterns": [
+          "RAILROAD MILEAGE",
+          "LENGTH OF SINGLE",
+          "SINGLE, SECOND",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "1 0 CONTENTS, T a b l e 1 4 8 ,\u2014 F e m a le p o p u la t io n 1 5 y e a r s o f a g e a n d o v e r e m p l o y e d a s b r e a d \u00ad w in n e r s : N u m b e r a n d p e r c e n t a g e i n t h e c e n"
+      },
+      {
+        "page_number": 275,
+        "matched_patterns": [
+          "RAILROAD MILEAGE"
+        ],
+        "snippet": "2 7 6 B A IL W A Y M A IL SERVICE, No. 164.\u2014RAILWAY MAIL SERVICE: R ailr o ad M ileag e upon w h ic h M a il w a s Car ried, A n n u al Cost an d A ver ag e C ost per M il e op R ailr o ad M a il T ra"
+      },
+      {
+        "page_number": 279,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "JTo. 168.\u2014RAILROADS: M il e s op L in e 1 in S pec ified Y e a r s, 1860 to 1910, a n d p e r 100 S q u a r e M il e s a n d per 10,000 I n h a b it a n t s in 1910, b y St a t e s. (Sources: Calendar"
+      },
+      {
+        "page_number": 280,
+        "matched_patterns": [
+          "SINGLE, SECOND",
+          "SINGLE TRACK",
+          "MILEAGE OPERATED",
+          "TRACK MILEAGE"
+        ],
+        "snippet": "R A IL R O A D S. 2 8 1 No. 169.\u2014RAILROADS: O perated M ileag e a n d A n n u al I ncrease of M ileag e, 1832 to 1910.1 [Sources: Calendar years 1832 to 1889, Poor\u2019s Manual of Bail roads; years ending"
+      },
+      {
+        "page_number": 293,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "294 RAILRO AD S* N o. 1 8 4 * \u2014 F IN A N C E S O F R A IL R O A D S : U n der S pec ified H e a d in g s, Y e a r s en d ed Ju n e 30, 1908 to 1910.1 [Source: Statistical reports of the Interstate Com"
+      },
+      {
+        "page_number": 296,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "N o. 1 8 5 .__PENANCES O F R A IL R O A D S : A n a lysis of Statistics of R eceipts from P a sse n g e r a n d F r eig h t Se r v ic e s, 1890 to 1910. [Source: Statistical reports of the Interstate "
+      },
+      {
+        "page_number": 303,
+        "matched_patterns": [
+          "TRACK MILEAGE"
+        ],
+        "snippet": "304 STREET AN D ELEVATED R A IL W A Y S. N o. 1 9 1 .\u2014 STR EE T AN D E LEVATED R A IL W A Y S, 191011 M ile a g e, N um ber of Cars, an d C apitalizatio n, b y States a n d b y G eographic D iv isio n"
+      },
+      {
+        "page_number": 769,
+        "matched_patterns": [
+          "RAILWAY MILEAGE"
+        ],
+        "snippet": "I Figures of commerce include bullion and specie. 8 Territory of Papua not included. Commerce exclu\u00ad sive of intercolonial trade. 3 Figures of commerce include total imports and ex\u00ad ports of domestic "
+      }
+    ]
+  },
+  "1912": {
+    "pdf": "data/raw/saus_1912.pdf",
+    "candidate_pages": [
+      10,
+      299,
+      303,
+      304,
+      316,
+      323,
+      329,
+      807
+    ],
+    "matches": [
+      {
+        "page_number": 10,
+        "matched_patterns": [
+          "RAILROAD MILEAGE",
+          "LENGTH OF SINGLE",
+          "SINGLE, SECOND",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "Page/ Table 178.\u2014Coal mines, anthracite and bituminous: Number of men em\u00ad ployed, number of days worked, and average tonnage mined per man per day and per year, 1901 to 1908,1910, and 1911............"
+      },
+      {
+        "page_number": 299,
+        "matched_patterns": [
+          "RAILROAD MILEAGE"
+        ],
+        "snippet": "300 R A IL W A Y M A IL SER VICE. No. 1 8 2 .\u2014RAILWAY MAIL SERVICE: R ailroad M ileage upon w h ich M a il w as Carried, A nnual Cost and A verage Cost per M ile of R ailroad M a il T ranspor\u00ad tation,"
+      },
+      {
+        "page_number": 303,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "304 R A IL R O A D S. No. 1 8 6 .\u2014 RAILROADS: M iles of L i n e 1 2 3 4 in Specified Y e a r s, 1860 to 1911, and per 100 Sq u are M iles and per 10,000 I n h ab itan ts in 1911, b y St a t e s. [Sour"
+      },
+      {
+        "page_number": 304,
+        "matched_patterns": [
+          "LENGTH OF SINGLE",
+          "SINGLE, SECOND",
+          "SINGLE TRACK",
+          "MILEAGE OPERATED",
+          "TRACK MILEAGE"
+        ],
+        "snippet": "RAILROADS, 305 No. 1 8 7 .\u2014RAILROADS: O p e r a t e d M i l e a g e a n d A n n u a l I n c r e a s e o f M i l e a g e , 1832 t o 1911.1 [Sources: Calendar years 1882 to 1889, Poor\u2019s Manual of Railro"
+      },
+      {
+        "page_number": 316,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "RAILROADS. 317 No. 202.\u2014FINANCES OF RAILROADS UNDER SPECIFIED HEADINGS: Y e a r s E n d e d Ju n e 30, 1909 t o 1911.1 [Source: Statistical reports of the Interstate Commerce Commission.) A N A L Y S "
+      },
+      {
+        "page_number": 323,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "No. 205.\u2014 FINANCES OF RAILROADS: A nalysis of Statistics of R eceipts from P assenger and F reight S ervices, 1890 to 1911. [Source: Statistical reports of the Interstate Commerce Commission. The term"
+      },
+      {
+        "page_number": 329,
+        "matched_patterns": [
+          "TRACK MILEAGE"
+        ],
+        "snippet": "330 STREET AND ELEVATED R AILW AYS. No. 2 1 2 .\u2014STREET AND ELEVATED RAILWAYS, 1911 : l 2.M ileage, N umber of Cars, and Capitalization, by States and by G eographic D ivisions. [Source: The Electric R"
+      },
+      {
+        "page_number": 807,
+        "matched_patterns": [
+          "RAILWAY MILEAGE"
+        ],
+        "snippet": "1 Figures include merchandise only, special trade, and cover calendar years, unless otherwise stated. 2 Figures of commerce include bullion and specie. 3 Territory of Papua not included. Commerce excl"
+      }
+    ]
+  },
+  "1913": {
+    "pdf": "data/raw/saus_1913.pdf",
+    "candidate_pages": [
+      256,
+      260,
+      261,
+      262,
+      274,
+      281,
+      695
+    ],
+    "matches": [
+      {
+        "page_number": 256,
+        "matched_patterns": [
+          "RAILROAD MILEAGE"
+        ],
+        "snippet": "RAILW AY MAIL SERVICE. 25T No. ITO.\u2014RAILWAY MAIL SERVICE: R a il r o a d M ile a g e u p on w h ic h M a i l was- C a r r ie d , A n n u a l C o s t a n d A v e r a g e C o st p e r M il e o f R a ilr"
+      },
+      {
+        "page_number": 260,
+        "matched_patterns": [
+          "TRACK MILEAGE"
+        ],
+        "snippet": "STREET AND ELEVATED RAILW AYS. 261 No. 1 7 4 .\u2014 STREET AND ELEVATED RAILWAYS, 1912r1 M il e a g e, N u m ber op Oa ks, a n d C a p it a l iz a t io n , b y States a n d b y G e o g r a ph ic D iv is i"
+      },
+      {
+        "page_number": 261,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "262 RAILROADS. No. 1 7 5 .\u2014RAILROADS: M il e s o p L i n e 1 in S p e c if ie d Y e a r s , I860 t o 1912, a n d p e r 100 Sq u a r e M il e s a n d p e r 10,000 I n h a b it a n t s i n 1912, b y St "
+      },
+      {
+        "page_number": 262,
+        "matched_patterns": [
+          "LENGTH OF SINGLE",
+          "SINGLE, SECOND",
+          "SINGLE TRACK",
+          "MILEAGE OPERATED",
+          "TRACK MILEAGE"
+        ],
+        "snippet": "RAILROADS. 263 No. 17\u00a9 .\u2014RAILROADS: O p e r a te d M ile a g e a n d A n n u a l I n c r e a s e o f M ile a g s , 1832 to 1912.1 [Sources: Calendar years 1832 to 1889, Poor\u2019s Manual of Railroads; yea"
+      },
+      {
+        "page_number": 274,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "RAILROADS. 275 No, 1 9 1 .\u2014FINANCES OF RAILROADS UNDER SPECIFIED HEADINGS: Y e a r s E n d e d J u n e 30, 1910 t o 1912.1 [Source: Statistical reports of the Interstate Commerce Commission.] ANALYSIS"
+      },
+      {
+        "page_number": 281,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "No. 1 9 4 .\u2014FINANCES 0 7 RAILROADS: A n a ly s is o f S ta tis tic s o f R e c e ip ts fr o m P a s s e n g e r a n d F r e ig h t S e r v ic e s , 1891 t o 1912. [Source: Statistical reports of the I"
+      },
+      {
+        "page_number": 695,
+        "matched_patterns": [
+          "RAILWAY MILEAGE"
+        ],
+        "snippet": "* Figures include merchandise only, special trade, and cover calendar yews, unless otherwise stated. 2 Figures of commerce include bullion and specie. 8 Territory of Papua not included. Commerce exclu"
+      }
+    ]
+  },
+  "1914": {
+    "pdf": "data/raw/saus_1914.pdf",
+    "candidate_pages": [
+      252,
+      255,
+      260,
+      261,
+      262,
+      270,
+      695
+    ],
+    "matches": [
+      {
+        "page_number": 252,
+        "matched_patterns": [
+          "RAILROAD MILEAGE"
+        ],
+        "snippet": "RAILW AY M AIL SERVICE, 253 [Source: Annual reports of the Postmaster General.] No. 166.\u2014RAILWAY MAIL SERVICE: Railroad Mileage upon which Mail was Carried, Annual Cost and Average Cost per Mile of Ra"
+      },
+      {
+        "page_number": 255,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "256 TELEGRAPHS, No. 1T1.\u2014LAND AND OCEAN TELEGRAPH SYSTEMS COMBINED: Co m parativ e S um m ary, 1902, 1907, a n d 1912. [Source: Bulletin of the Bureau of the Census, Department of Commerce.] Per cent "
+      },
+      {
+        "page_number": 260,
+        "matched_patterns": [
+          "TRACK MILEAGE"
+        ],
+        "snippet": "STREET AND ELEVATED RAILWAYS. 261 [Source: The Electric Railway Journal.] -No. 178.\u2014 STREET AND ELEVATED RAILWAYS, 1913:' Mileage, Number of Cars, and Capitalization, by States and by Geographic Divis"
+      },
+      {
+        "page_number": 261,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "No. 1*79.\u2014RAILROADS: M il e s o f L in e 1 * * * in S p e c if ie d Y e a r s, 1860 to 1913, a n d p e r 100 S q u a r e M il e s a n d p e r 10,000 I n h a b it a n t s in 1913, b y St a t e s. 262 R"
+      },
+      {
+        "page_number": 262,
+        "matched_patterns": [
+          "SINGLE, SECOND",
+          "SINGLE TRACK",
+          "MILEAGE OPERATED",
+          "TRACK MILEAGE"
+        ],
+        "snippet": "RAILROADS 263 No. 180.\u2014RAILROADS: O perated M ilea g e and A nnual I ncrease op M il ea g e, 1833 to 1913.1 [Sources: Calendar years 1833 to 1889, Poor\u2019s Manual of Railroads; years ending June 30,1890"
+      },
+      {
+        "page_number": 270,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "No. 191.\u2014FINANCES OF RAILROADS: Analysis of Statistics of Receipts from Passenger and Freight Services, 1892 to 1913. [Source: Statistical reports of the Interstate Commerce Commission. The term \u201c ton"
+      },
+      {
+        "page_number": 695,
+        "matched_patterns": [
+          "RAILWAY MILEAGE"
+        ],
+        "snippet": "1 Figures include merchandise only, special trade, and cover calendar years, unless otherwise stated. 2 Figures of commerce include bullion and specie. 3 Territory of Papua not included. 4 Figures of "
+      }
+    ]
+  },
+  "1915": {
+    "pdf": "data/raw/saus_1915.pdf",
+    "candidate_pages": [
+      261,
+      264,
+      270,
+      271,
+      276,
+      723
+    ],
+    "matches": [
+      {
+        "page_number": 261,
+        "matched_patterns": [
+          "RAILROAD MILEAGE"
+        ],
+        "snippet": "CH J\\ LIL 1 J79 t ailwj Ser1 Lber m- ees. 609 946 177 570 855 96S 387 573 851 094 448 836 032 417 645 852 045 408 602 999 388 695 105 627 418 621 474 598 357 295 044 795 028 261 265 311 599 id a r ; e"
+      },
+      {
+        "page_number": 264,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "TELEGBAPHS. 265 No. 1 7 5 .\u2014 LAND AND OCEAN TE1EGBAPH SYSTEMS COMBINED: OoM I\u2019AKATIVE SUMMARY, 1902, 1907, AXD 1912. [Source: Bulletin of the Bureau of the Census, Department of Commerce.] Per cent of"
+      },
+      {
+        "page_number": 270,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "RAILROADS. 271 N o . 1 8 3 . \u2014 B -A I L B O A D S : M i l e s o p L i n e 1 in S p e c i f i e d Y e a r s , 1860 t o 1914, a n d p e r 100 S q u a r e M i l e s a n d p e r 10,000 I n h a b i t a n t"
+      },
+      {
+        "page_number": 271,
+        "matched_patterns": [
+          "LENGTH OF SINGLE",
+          "SINGLE, SECOND",
+          "SINGLE TRACK",
+          "MILEAGE OPERATED",
+          "TRACK MILEAGE"
+        ],
+        "snippet": "272 RAILROADS. No. 1 8 4 .\u2014RAILROADS: O p e r a t e d M i l e a o e a n d A n n u a l I n c r e a s e : o f M i l e a g e , 1834 t o 1914.1 [Sources: Calendar years 1834 to 1889, Poor\u2019s Manual of Rail"
+      },
+      {
+        "page_number": 276,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "No. 1 9 2 .\u2014FINANCES OF RAILROADS: Analysis of Statistics o f Receipts from Passenger and Freight Services, 1893 to 1914. [Source: Statistical reports of the Interstate Commerce Commission. The term \u201c"
+      },
+      {
+        "page_number": 723,
+        "matched_patterns": [
+          "RAILWAY MILEAGE"
+        ],
+        "snippet": "* Figures include merchandise only, special trade, and cover calendar years, unless otherwise stated. 2 Figures of commerce include bullion and specie. * Territory of Papua not included. * Figures of "
+      }
+    ]
+  },
+  "1916": {
+    "pdf": "data/raw/saus_1916.pdf",
+    "candidate_pages": [
+      274,
+      282,
+      285,
+      291,
+      292,
+      296,
+      300,
+      310,
+      747
+    ],
+    "matches": [
+      {
+        "page_number": 274,
+        "matched_patterns": [
+          "MILEAGE OF ROAD"
+        ],
+        "snippet": "INTERNAL COMMUNICATION AND TRANSPORTATION. No. 176.\u2014PUBLIC ROADS:.M il e a g e o f R o a d s a n d N u m b e r o f B r id g e s B u il t b y St a t e o r S t a t e A i d , M il e a g e op R o a d s M "
+      },
+      {
+        "page_number": 282,
+        "matched_patterns": [
+          "RAILROAD MILEAGE"
+        ],
+        "snippet": "3er iber jin\u00ad xes. ,609 ,946 ,177 ,570 ,865 ,963 ,387 ,573 ,851 ,094 ,448 ,836 ,032 ,417 , 645 ,852 ,045 ,406 ,602 ,999 ,388 ,695 ,105 ,627 ,418 ,821 ,474 ,598 ,357 ,295 ,044 795 028 261 265 311 599 3"
+      },
+      {
+        "page_number": 285,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "No. 1 8 7 \u2014LAND AND OCEAN TELEGRAPH SYSTEMS COMBINED: C o m p a r a tiv e S u m m ary, 1902, 1907, a n d 1912. 286 TELEGRAPHS. [Source: Bulletin of the Bureau of the Census, Department of Commerce.] P"
+      },
+      {
+        "page_number": 291,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "292 RAILROADS. No. 195.\u2014BAILRO ADS: M il e s op L i n e 1 i n S p e c if ie d Y e a r s , 1 8 6 0 t o 1915, a n d p e r 100 S q u a r e M il e s a n d p e r 10,000 I n h a b i t a n t s in 1915, b y S"
+      },
+      {
+        "page_number": 292,
+        "matched_patterns": [
+          "LENGTH OF SINGLE",
+          "SINGLE, SECOND",
+          "SINGLE TRACK",
+          "MILEAGE OPERATED",
+          "TRACK MILEAGE"
+        ],
+        "snippet": "RAILROADS, 293 No. 196.\u2014RAILROADS: O p e r a te d M ile a g e a n d A n n u a l I n c r e a s e o f M ile a g e , 1835 t o 1 9 1 5 .1 [Sources: Calendar years 1835 to 1889, Poor\u2019s Manual of Railroads;"
+      },
+      {
+        "page_number": 296,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "N o. 2 0 2 .\u2014 F IN A N C E S O F R A IL R O A D S : A n a l y s is op Stat istic s o p R ec e ipts pr o m P a s s e n g e r a n d F r e ig h t S e r v ic e s , 1894 to 1915. [Source: Statistical repor"
+      },
+      {
+        "page_number": 300,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "RAILROADS. 301 No. 206.\u2014FINANCES OF RAILROADS TINDER SPECIFIED HEAD\u00ad INGS: Y e a r s E n d e d J u n e 30, 1913 t o 1915. [Source: Statistical reports of the Interstate Commerce Commission.] ANALYSIS "
+      },
+      {
+        "page_number": 310,
+        "matched_patterns": [
+          "SINGLE TRACK"
+        ],
+        "snippet": "No. 215.\u2014EMPLOYEES OF RAILROADS: A v e r a g e N u m b e r in S e r v ic e a n d N u m b e r p e r 100 M il e s o f L i n e f o r a n d II C a r r i e r s a n d A v e r a g e N u m b e r f o r S w it "
+      },
+      {
+        "page_number": 747,
+        "matched_patterns": [
+          "RAILWAY MILEAGE"
+        ],
+        "snippet": "1 Figures include merchandise only, special trade, and cover calendar years, unless otherwise stated. 2 Figures of commerce include bullion and specie, s Territory of Papua not included. \u00ab Figures of "
+      }
+    ]
+  },
+  "1917": {
+    "pdf": "data/raw/saus_1917.pdf",
+    "candidate_pages": [
+      278,
+      289,
+      295,
+      296,
+      300,
+      304,
+      314,
+      773
+    ],
+    "matches": [
+      {
+        "page_number": 278,
+        "matched_patterns": [
+          "MILEAGE OF ROAD"
+        ],
+        "snippet": "I N T E R N A L C O M M U N I C A T I O N A N D T R A N S P O R T A T I O N . N o. 1 7 9 .\u2014PUBLIC RO AD S: M ileag e of R o ads a n d N u m b e r of B r id g e s B uilt b l State or S tate A id , Mile"
+      },
+      {
+        "page_number": 289,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "290 TELEGRAPHS. N o . 1 9 0 .\u2014 LAND AND OCEAN TELEGRAPH SY STEM S CO M BINED: Comparative Summary, 1902, 1907, and 1912. [Source*. Bulletin, of the Bureau of the Census, Department of Commerce.] Per c"
+      },
+      {
+        "page_number": 295,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "296 RAILROADS. Ho. 198.\u2014HAILKOADS: Miles op Lin e1 * in Specified Years, 1860 to 1916, and per 100 Square Miles and per 10,000 Inhabitants in 1916, by States. [Sources: Calendar years 1860, 1870, and "
+      },
+      {
+        "page_number": 296,
+        "matched_patterns": [
+          "LENGTH OF SINGLE",
+          "SINGLE, SECOND",
+          "SINGLE TRACK",
+          "MILEAGE OPERATED",
+          "TRACK MILEAGE"
+        ],
+        "snippet": "RAILRO ADS. 2 9 7 No. 199.\u2014RAILROADS: Operated M ileage and A nnual Increase op Mileage, 1836 to 1916.1 [Sources: Calendar years 1836 to 1889, Poor's Manual of Railroads; years ending June 30,1890 to "
+      },
+      {
+        "page_number": 300,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "No. 305.\u2014FINANCES OF RAILROADS: A n alysis of Statistics of R eceipts from P a sse n g e r a n d F reigh t S e r v ic e s, 1895 to 1916. [Source: Statistical reports of the Interstate Commerce Commiss"
+      },
+      {
+        "page_number": 304,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "RAILROADS 305 No. 209.\u2014FINANCES OF RAILROADS UNDER SPECIFIED HEAD\u00ad INGS: Years Ended June 30, 1914 to 1916. [Source: Statistical reports of the Interstate Commerce Commission.] ANALYSIS OF OPERATING R"
+      },
+      {
+        "page_number": 314,
+        "matched_patterns": [
+          "SINGLE TRACK"
+        ],
+        "snippet": "RAILROADS. 315 N o. 2 1 8 .\u2014EMPLOYEES OF RAILRO AD S: Average Number in Service and Number per 100 Miles of Line of Steam Railways on June 30, 1916, by Classes. [Source: Statistical reports of the Int"
+      },
+      {
+        "page_number": 773,
+        "matched_patterns": [
+          "RAILWAY MILEAGE"
+        ],
+        "snippet": "774 STATISTICS OF PRINCIPAL COUNTRIES. [NOTES TO TABLE 404.] 1 Figures include merchandise only, special trade, and cover calendar years, unless otherwise stated. 2 Figures of commerce include bullion"
+      }
+    ]
+  },
+  "1918": {
+    "pdf": "data/raw/saus_1918.pdf",
+    "candidate_pages": [
+      6,
+      320,
+      326,
+      332,
+      333,
+      341,
+      354,
+      355,
+      356,
+      865
+    ],
+    "matches": [
+      {
+        "page_number": 6,
+        "matched_patterns": [
+          "MILEAGE OF ROAD",
+          "RAILROAD MILEAGE",
+          "LENGTH OF SINGLE",
+          "SINGLE, SECOND",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "CONTENTS. VII P a g e . T a b l e 187.\u2014 W a g e earn ers: N u m b e r e m p lo y e d in m a n u fa ctu re s, 1914, b y m o n th s , b y S ta tes, a n d b y g e o g ra p h ic d iv is io n s ..........."
+      },
+      {
+        "page_number": 320,
+        "matched_patterns": [
+          "RAILROAD MILEAGE"
+        ],
+        "snippet": "RAILWAY MAIL SERVICE, 305 No. 199.\u2014RAILWAY MAIL SERVICE: R ailroad M ileage upon W hich M a il W as Carried, A nnual Cost and A verage Coot per M ile op R ailroad M a il T ranspor\u00ad tation, and E xpend"
+      },
+      {
+        "page_number": 326,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "TELEGRAPHS. 31 1 [Sonroe: Bulletin of the Bureau of the Census, Department of Commerce.! No. 205.\u2014LAND AND OCEAN TELEGRAPH SYSTEMS COMBINED: Comparative Summary, 1902, 1907, and 1912. Number of compan"
+      },
+      {
+        "page_number": 332,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "RAILROADS. 317 No. 213.\u2014RAILROADS: Mu .es op Lin e 1 in Specified Year*, I860 to 19336, a n d ' p e r 100 Sq u are Miles and per 10,000 I nhabitan ts in 1916, b y State*. Sources: Calendar years I860,"
+      },
+      {
+        "page_number": 333,
+        "matched_patterns": [
+          "LENGTH OF SINGLE",
+          "SINGLE, SECOND",
+          "SINGLE TRACK",
+          "MILEAGE OPERATED",
+          "TRACK MILEAGE"
+        ],
+        "snippet": "818 RAILROADS. No. 214.\u2014RAILROADS: O pera ted M ileage and A nnual I ncrease of M ileage, 1837 to 1916.x [Sources: Calendar years 1837 to 1889, Poor\u2019s Manual of Railroads; years ending June 80,1890 to"
+      },
+      {
+        "page_number": 341,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "32 6 RAILROADS. No. 324.\u2014FINANCES CF RAILROAD* UNDER SPECIFIED HEAD- IN OS: F i s c a l Y e a r s E n d e d JtmE 80, 1915 a n d 1916, a n d C a l e n d a r Y e a r 1916. [Source: Statistical reports o"
+      },
+      {
+        "page_number": 354,
+        "matched_patterns": [
+          "MILEAGE OF ROAD"
+        ],
+        "snippet": "RAILROADS. 839 No. 236.\u2014EMPLOYEES OF RAILROADS: A v e r a g e N um ber in S ervice a n d A ve rage N um ber per 100 Miles op L ine op Steam R ailw ays, Cale n d ar Y ear 1916, b y Classes. [Source: St"
+      },
+      {
+        "page_number": 355,
+        "matched_patterns": [
+          "MILEAGE OF ROAD"
+        ],
+        "snippet": "340 RAILROADS. [Source: Statistical reports of the Interstate Commerce Commission.] No. 237.\u2014EMPLOYEES OF RAILROADS: Total Yearly Compensation op Steam Railways, Calendar Year 1916, by Classes. Steam "
+      },
+      {
+        "page_number": 356,
+        "matched_patterns": [
+          "MILEAGE OF ROAD"
+        ],
+        "snippet": "N o. 238*\u2014 EM PLOYEES OF R A IL B O A D S : A verage H ourly Compensation op Steam R ailw ays, Calendar Y ea r 1916, b y Classes. [Source: Statistical reports of the Interstate Commerce Commission.] R"
+      },
+      {
+        "page_number": 865,
+        "matched_patterns": [
+          "RAILWAY MILEAGE"
+        ],
+        "snippet": "850 STATISTICS OP PRIN CIPAL COUNTRIES. [NOTES TO TABLE 480.] 1 Figures include merchandise only, special trade, and cover calendar years, unless otherwise stated. 2 Figures of commerce include bullio"
+      }
+    ]
+  },
+  "1919": {
+    "pdf": "data/raw/saus_1919.pdf",
+    "candidate_pages": [
+      6,
+      318,
+      328,
+      334,
+      342,
+      343,
+      347,
+      350,
+      362,
+      849
+    ],
+    "matches": [
+      {
+        "page_number": 6,
+        "matched_patterns": [
+          "MILEAGE OF ROAD",
+          "RAILROAD MILEAGE",
+          "LENGTH OF SINGLE",
+          "SINGLE, SECOND",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "CONTENTS, VII OCCUPATIONS. LABOR, AND WAGES. Table 189.\u2014Population 10 years of ago and upward engaged in gainful occupations, census year 1310: By sex and specified occupations........................"
+      },
+      {
+        "page_number": 318,
+        "matched_patterns": [
+          "MILEAGE OF ROAD"
+        ],
+        "snippet": "INTERNAL COMMUNICATION AND TRANSPORTATION, No. 201.\u2014 PUBLIC ROADS: M il e a g e of R o a ds a n d N u m b e r o f B r id g e s B uilt b y S tate o r S ta te A id , M il e a g e o f R o a ds M a in t a"
+      },
+      {
+        "page_number": 328,
+        "matched_patterns": [
+          "RAILROAD MILEAGE"
+        ],
+        "snippet": "RAILWAY MAIL SERVICE. 313 [Source: Annual reports of the Postmaster General.] No. 207.\u2014RAILWAY MAIL SERVICE: RailroadM ileage upon Which M ail Was Carried, A nnual Cost and A verage Cost per M ilk of "
+      },
+      {
+        "page_number": 334,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "No. 214.\u2014LAND AND OCEAN TELEGRAPH SYSTEMS COMBINED: Com parative S umm ary, 1902, 1907, 1912, and 1917. TELEGRAPHS. 319 (Source: Bulletin of the Bureau of the Census, Department of Commerce.} Number o"
+      },
+      {
+        "page_number": 342,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "RAILROADS. 3 2 7 No. 222.\u2014RAILROADS: Miles or Line1 in Specified Years, 18\u20acG to 1917, and per 100 Square Miles and per 10,000 Inhabitants in 1917, by States. ISources: Calendar years I860,1870, and 18"
+      },
+      {
+        "page_number": 343,
+        "matched_patterns": [
+          "MILEAGE OF ROAD",
+          "LENGTH OF SINGLE",
+          "SINGLE, SECOND",
+          "SINGLE TRACK",
+          "MILEAGE OPERATED",
+          "TRACK MILEAGE"
+        ],
+        "snippet": "3 2 8 RAILROADS No. 223. \u2014 RAILROADS: O p e r a t e d M i l e a g e a n d A n n u a l I n c r e a s e o f M i l e a g e , 1838 to 1917.1 [Sources: Calendar years 1838 to 1889, Poor\u2019s Manual of Railroa"
+      },
+      {
+        "page_number": 347,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "No. 2 2 9 .\u2014 F IN A N C E S O F R A IL R O A D S ; A n a lysis of Statistics of R eceipts from P a ssen g er and F reig h t Serv ices* 1S97 to 1917. I Source: Statistical reports of the Interstate Com"
+      },
+      {
+        "page_number": 350,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "RAILROADS, 335 N o . 2 3 2 .\u2014 F IN A N C E S O F R A IL R O A D S U N D E R S P E C IF IE D H E A D \u00ad IN G S: F i s c a l Y e a r E n d e d J u n e 30,1916, a n d C a l e n d a r Y e a r s 1916 a n d "
+      },
+      {
+        "page_number": 362,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "RAILROADS, 347 No. 244.\u2014EMPLOYEES OP RAILROADS: A verage N um ber in S ervice and A verage N um ber per 100 Miles of Line of Steam R ailways, Calendar Y ear 1917, by Classes. [Source: Statistical repo"
+      },
+      {
+        "page_number": 849,
+        "matched_patterns": [
+          "RAILWAY MILEAGE"
+        ],
+        "snippet": "834 STATISTICS OF PBINCIPAL COUNTBIES [NOTES TO 1 Figures include merchandise only, special trade, and cover calendar years, unless otherwise stated. Figures of trade for Canada and British India are "
+      }
+    ]
+  },
+  "1920": {
+    "pdf": "data/raw/saus_1920.pdf",
+    "candidate_pages": [
+      7,
+      8,
+      326,
+      338,
+      344,
+      352,
+      353,
+      357,
+      360,
+      372,
+      863
+    ],
+    "matches": [
+      {
+        "page_number": 7,
+        "matched_patterns": [
+          "MILEAGE OF ROAD"
+        ],
+        "snippet": "VIII CONTENTS, Table 178.\u2014Explosives: Amounts (excluding exports) manufactured and used, by States, calendar years 1918 and 1919.................................................................. ....."
+      },
+      {
+        "page_number": 8,
+        "matched_patterns": [
+          "RAILROAD MILEAGE",
+          "LENGTH OF SINGLE",
+          "SINGLE, SECOND",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "CONTENTS, IX Table 209.\u2014Automobile fatalities: Number of deaths and death rate per 100,000 of population, calendar years 1915 to 1919, by specified cities.............................................."
+      },
+      {
+        "page_number": 326,
+        "matched_patterns": [
+          "MILEAGE OF ROAD"
+        ],
+        "snippet": "INTERNAL COMMUNICATION AND TRANSPORTATION, N o. 20 4 .\u2014 PU B LIC R O A D S: M il e a g e o f R oads a n d N u m ber o f B r id g e s B uilt by Sta t e o r S ta te A id , M il e a g e o f R oads M a in"
+      },
+      {
+        "page_number": 338,
+        "matched_patterns": [
+          "RAILROAD MILEAGE"
+        ],
+        "snippet": "RAILWAY MAIL SERVICE, 319 Ho. 211.\u2014 RAILWAY MAIL SERVICE: R a il r o a d M il e a g e u p o n W h ic h M a il W as C a r r ie d , A n n u a l C ost a n d A v e r a g e C ost p e r M il e o f R a il r "
+      },
+      {
+        "page_number": 344,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "No. 218.\u2014LAND AN D OCEAN TELEGRAPH SYSTEM S COMBINED.- Comparative Summary, 1902, 1907, 1912, and 1917. TELEGBAPHS. 325 [Source: Bulletin of the Bureau of the Census, Department of Commerce.] Number o"
+      },
+      {
+        "page_number": 352,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "RAILROADS 333 N o. 2 2 6 .\u2014 R A IL R O A D S: Miles of L i n e 1 in Spec ified Y ea r s, 1860 to 1918, and p e r 100 Square Miles and p e r 10,000 I nhabitants in 1918, by Sta te s. [Sources: Calendar"
+      },
+      {
+        "page_number": 353,
+        "matched_patterns": [
+          "MILEAGE OF ROAD",
+          "LENGTH OF SINGLE",
+          "SINGLE, SECOND",
+          "SINGLE TRACK",
+          "MILEAGE OPERATED",
+          "TRACK MILEAGE"
+        ],
+        "snippet": "334 RAILROADS. No. 027.\u2014RAILROADS: O perated M ileage and A nnual I ncrease of M ileag e, 1839 to 1918.1 [Sources: Calendar years 1839 to 1889, Poor\u2019s Manual of Railroads; years ending-June 30,3890 to"
+      },
+      {
+        "page_number": 357,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "No. 233.\u2014FINANCES OF RAILROADS: Analysis op Statistics of Receipts prom Passenger and Freight Services, 1898 to 1918. [Source: Statistical reports of the Interstate Commerce Commission. The term \u201c ton"
+      },
+      {
+        "page_number": 360,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "No. 236.\u2014FINANCES OF RAILROADS UNDER SPECIFIED H EAD\u00ad INGS: Calendar Y ears 1916, 1917, and 1918. RAILROADS. 341 [Source: Statistical reports of the Interstate Commerce Commission.] ANALYSIS OF O PERA"
+      },
+      {
+        "page_number": 372,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "No. 247.\u2014EM PLOYEES OF RAILROADS: A verage N um ber in Service and A verage N u m ber pe r 100 Miles of L in e of Steam R ailw ays, Calendar Y ears 1917 and 1918, by Cla sses. [Source: Statistical rep"
+      },
+      {
+        "page_number": 863,
+        "matched_patterns": [
+          "RAILWAY MILEAGE"
+        ],
+        "snippet": "8 4 4 STATISTICS OP PBINCIPAL COTJNTBIB8. [NOTES TO TABLE 454.] 1 Figures include merchandise only, special trade, and cover calendar years, unless otherwise stated. Figures of trade for Canada and Br"
+      }
+    ]
+  },
+  "1921": {
+    "pdf": "data/raw/saus_1921.pdf",
+    "candidate_pages": [
+      8,
+      9,
+      368,
+      383,
+      387,
+      393,
+      394,
+      395,
+      401,
+      403,
+      410,
+      933
+    ],
+    "matches": [
+      {
+        "page_number": 8,
+        "matched_patterns": [
+          "MILEAGE OF ROAD",
+          "RAILROAD MILEAGE"
+        ],
+        "snippet": "CONTENTS. O C C U P A T IO N S , LA B O R , A N D W A G E S . Table. Page. 203. T otal P ersons 10 Y ears of A ge a nd Oy e r E n gag ed in E ach Specified O ccupation: B y sex, 1920.................."
+      },
+      {
+        "page_number": 9,
+        "matched_patterns": [
+          "LENGTH OF SINGLE",
+          "SINGLE, SECOND",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "c o n t e n t s , Table. Page. 234. T elephone System s reporting an annual income of $5,000 or more: Comparative, January, 1912 and 1917..............................................................."
+      },
+      {
+        "page_number": 368,
+        "matched_patterns": [
+          "MILEAGE OF ROAD"
+        ],
+        "snippet": "PUBLIC ROADS AND MOTOR VEHICLES No. 216.\u2014PUBLIC ROADS: M il e a g e of R o ad s a n d N u m b e r of B r id g e s B u ilt b y Sta t e o r State A id , M il e a g e of R oad s M a in t a in e d w it h "
+      },
+      {
+        "page_number": 383,
+        "matched_patterns": [
+          "RAILROAD MILEAGE"
+        ],
+        "snippet": "3 6 4 RAILWAY MAIL SERVICE, N o. 2 2 5 .\u2014 RAILW AY M AIL SERVICE: R ailr o a d M ile a g e upon W h ich M a il W a s C a r r ie d , A n nu al C ost a n d A v e r a g e C ost per M il e op R a il r o a"
+      },
+      {
+        "page_number": 387,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "3 6 8 TELEGRAPHS. No. 231.\u2014LAND AND OCEAN TELEGRAPH SYSTEMS COMBINED: C o m p a r a t i v e S u m m a r y , 1902, 1907, 1912, a n d 1917. [Source: Bulletin of the Bureau of the Census, Department of C"
+      },
+      {
+        "page_number": 393,
+        "matched_patterns": [
+          "SINGLE TRACK"
+        ],
+        "snippet": "N o. 2 3 7 .\u2014 E L E C T R IC R A IL W A Y S , 1 9 2 1 11 M il e a g e a n d N u m b e r of Ca r s , b y St a t e s a n d .b y G e o g r a ph ic D iv is io n s. [Source: The Electric Railway Journal.] "
+      },
+      {
+        "page_number": 394,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "H o. 2 3 8 .\u2014S A ttB O A ftS : Miles op L iite \u2019 nr Specim en Y s .*#\u00bb, 1800 to 1S13. [Sources: Calendar years 1860,1870, and 1880, Poor\u2019s Manual of Railroads, the data representing mileage operated; "
+      },
+      {
+        "page_number": 395,
+        "matched_patterns": [
+          "MILEAGE OF ROAD",
+          "LENGTH OF SINGLE",
+          "SINGLE, SECOND",
+          "SINGLE TRACK",
+          "MILEAGE OPERATED",
+          "TRACK MILEAGE"
+        ],
+        "snippet": "376 RAILROADS. N o . 2 3 9 .\u2014 R A IL R O A D S : O per ated M ile a g e a n d A n n u al I ncrease oe M il e a g e 1840 to 1919.1 * [Sources: Calendar years 1840 to 1889, Poor\u2019s Manual of Railroads; y"
+      },
+      {
+        "page_number": 401,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "BB2 K A M M M m . [Source: Statistical reports of the Interstate Commerce Commission] N o . 2 4 6 .\u2014 E M P L O Y E E S O F R A I L R O A D S : A v e r a g e N u m b e r i n S e r v ic e a n d A v e r "
+      },
+      {
+        "page_number": 403,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "No. 248.__FINANCES OF RAILROADS: A n a l y s is o f St a t is t ic s o f R e c e ip t s f r o m P a s s e n g e r a n d F r e ig h t S e r v ic e s , 1899 t o 1919. [Source: Statistical reports of the"
+      },
+      {
+        "page_number": 410,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "KAIEK0AIX3. No. 2 5 4 AlrASKAN \u00a9OTOBNM ENT KAELKOAD tR A M K ^ : A imelys\u00ae of Sta\u00ad tistics of Passenger and Freight Services1, N orthern and Southern D ivi\u00ad sions, Y ear E nded June 30, 1921. ^Source:"
+      },
+      {
+        "page_number": 933,
+        "matched_patterns": [
+          "RAILWAY MILEAGE"
+        ],
+        "snippet": "914 COMMERCIAL STATISTICS OE THE PRINCIPAL COUNTRIES, [NOTES TO TABLE 488.] 1 Postal figures are for the latest year available. 2 Government telegraphs only. In addition there were 17,159 miles of rai"
+      }
+    ]
+  },
+  "1922": {
+    "pdf": "data/raw/saus_1922.pdf",
+    "candidate_pages": [
+      8,
+      9,
+      306,
+      317,
+      321,
+      327,
+      328,
+      329,
+      335,
+      340,
+      752
+    ],
+    "matches": [
+      {
+        "page_number": 8,
+        "matched_patterns": [
+          "MILEAGE OF ROAD",
+          "RAILROAD MILEAGE"
+        ],
+        "snippet": "CONTENTS, IX OCCUPATIONS, LABOR, AND W AGES. T able. Page* 201. T otal P ersons 10 Y ears of Age and Oyer E ngaged in E ach Specified Occupation: By sex ,1920.........................................."
+      },
+      {
+        "page_number": 9,
+        "matched_patterns": [
+          "LENGTH OF SINGLE",
+          "SINGLE, SECOND",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "X COOTBKXS, RAILROAD AND EXPRESS C O M PA N IES. Table. Page. 233. Summary of R eports of P rincipal R ailroads for calendar years 1919 to 1922 ... 307 234. E lectric R ailways: Mileage and num ber of"
+      },
+      {
+        "page_number": 306,
+        "matched_patterns": [
+          "MILEAGE OF ROAD"
+        ],
+        "snippet": "P U B L I C R O A D S A N D M O T O R V E H I C L E S No. 214.\u2014PUBLIC ROADS: Mileage of R oads and N um ber of B ridges B uilt by State or State Aid, Mileage of R oads Maintained with State Aid , and "
+      },
+      {
+        "page_number": 317,
+        "matched_patterns": [
+          "RAILROAD MILEAGE"
+        ],
+        "snippet": "298 BAIL WAY MAIL SERVICE, No. 222.\u2014 BAILWAY MAIL SERVICE: R a i l r o a d M i l e a g e u p o n W h i c h M a i l W a s C a r r i e d , A n n u a l C o s t a n d A v e r a g e C o s t p e r M i l e o"
+      },
+      {
+        "page_number": 321,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "302 TELEGRAPHS. No. 2 2 8 .\u2014LAND AND OCEAN TELEGRAPH SYSTEMS COMBINED: C o m p a r a t i v e S u m m a r y , 1902, 1907, 1912, a n d 1917. [Source: Bulletin of the Bureau of the Census, Department of "
+      },
+      {
+        "page_number": 327,
+        "matched_patterns": [
+          "SINGLE TRACK"
+        ],
+        "snippet": "308 ELECTRIC RAILWAYS, No. 234.\u2014ELECTRIC RAILWAYS:1 Mileage and Number of Cars and B usses Operated by Electric Railway Companies, in July, 1922, by States and by Geographic Divisions. [Source: The El"
+      },
+      {
+        "page_number": 328,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "RAILROADS, 309 No. 235.\u2014RAILROADS: T o t a l M il e s o p R a il w a y i n t h e U n it e d S t a t e s b y S t a t e s, 1860 to 1921. (Sources: Calendar years 1860,1870, and 1880, Poor\u2019s Manual of Ra"
+      },
+      {
+        "page_number": 329,
+        "matched_patterns": [
+          "MILEAGE OF ROAD",
+          "LENGTH OF SINGLE",
+          "SINGLE, SECOND",
+          "SINGLE TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "310 RAILROADS, No. 2 3 6 .\u2014 RAILROADS: O p e r a t e d M il e a g e 1 a n d A n n u a l I n c r e a s e, 1842 to 1921, [Sources: C alendar years 1842 to 1889, Poor\u2019s M anual of Railroads; years ending"
+      },
+      {
+        "page_number": 335,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "No. 2 4 3 .\u2014FINANCES OF RAILROADS: Analysis op Statistics of Receipts from Passenger and Freight Services, 1890 to 1921. [Source: Statistical reports of the Interstate Commerce Commission. The term \u201c "
+      },
+      {
+        "page_number": 340,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "RAILROADS, 3 2 1 No. 249.\u2014ALASKAN GOVERNMENT RAILROAD TRAFFIC: Analysis of Sta\u00ad tistics of Passenger and Freight Services, Northern and Southern Divi\u00ad sions, Year Ended June 30, 1921.1 [Source: Annual"
+      },
+      {
+        "page_number": 752,
+        "matched_patterns": [
+          "RAILWAY MILEAGE"
+        ],
+        "snippet": "COMMERCIAL STATISTICS OF THE PRINCIPAL COUNTRIES. 738 [NOTES TO 1 P ostal figures are for the latest year available* 2 G overnm ent telegraphs only. 8 R ailw a y routes only. 4 Not included in the tot"
+      }
+    ]
+  },
+  "1923": {
+    "pdf": "data/raw/saus_1923.pdf",
+    "candidate_pages": [
+      12,
+      13,
+      410,
+      411,
+      412,
+      421,
+      422,
+      437,
+      438,
+      439,
+      441,
+      443,
+      880
+    ],
+    "matches": [
+      {
+        "page_number": 12,
+        "matched_patterns": [
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "CONTENTS XIIP T able P age 378. P ostal M oney-Ord er B usin ess, 1910,1915, and 1920 to 1923.................................................................. 360 379. P rincipal I tems of E xpen dit"
+      },
+      {
+        "page_number": 13,
+        "matched_patterns": [
+          "SINGLE TRACK"
+        ],
+        "snippet": "XIV CONTENTS T able P ag e 414. R eceiversh ips of R a il w a y s: 1881 to 1928.............. ....... . . ............... ............... *................................... 389 415. C apitalization "
+      },
+      {
+        "page_number": 410,
+        "matched_patterns": [
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "RAILROAD MILEAGE",
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "STEAM AND ELECTRIC RAILWAYS AND EXPRESS COM\u00ad PANIES General Note.\u2014The total railroad m ileage of the U nited States includes: (a) R egular interstate car\u00ad riers (and their nonoperating subsidiaries) r"
+      },
+      {
+        "page_number": 411,
+        "matched_patterns": [
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "3 8 6 RAILROADS No. 4 0 8 .\u2014 RAILWAY MILEAGE OWNED: B y S t a t e s f (N o t e .\u2014 See note to Table 407. Includes reporting, circular, and unofficial railw ays, but since 1908 excludes sw itching and "
+      },
+      {
+        "page_number": 412,
+        "matched_patterns": [
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "RAILROADS 3 8 7 No. 4 0 9 .\u2014 RAILWAY MILEAGE OWNED AND OPERATED [ N o t e .\u2014See note to Table 407. Since 1890 the columns correspond to the first and third columns of th at table. The exact basis of t"
+      },
+      {
+        "page_number": 421,
+        "matched_patterns": [
+          "FIRST TRACK"
+        ],
+        "snippet": "3 9 6 b aiijROa d s No. 4 2 3 .\u2014REVENUE, EXPENSES, AND INCOME OF OPERATING COMPANIES [N ote.\u2014D ata relate to years ending June 30 prior to 1916, to calendar years thereafter. All revenue, expenses, an"
+      },
+      {
+        "page_number": 422,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "RAILROADS 3 9 7 No. 4 2 4 .\u2014 INCOME ACCOUNT OF CIASS I CARRIERS: R a il w a y O p e r a t io n s [Note.\u2014Data relate only to operating roads. All items not resulting from railway operations and all dup"
+      },
+      {
+        "page_number": 437,
+        "matched_patterns": [
+          "SINGLE TRACK",
+          "TRACK OPERATED"
+        ],
+        "snippet": "4 1 2 ELECTRIC RAILWAYS {Note.\u2014This table does not include the electric operations of steam railway companies. Many electric railway companies also engage in other operations, especially in the sale o"
+      },
+      {
+        "page_number": 438,
+        "matched_patterns": [
+          "SINGLE TRACK",
+          "FIRST TRACK"
+        ],
+        "snippet": "ELECTRIC RAILWAYS 4 1 3 No. 4 3 9 .\u2014 ELECTRIC R AILW AYS: M ileage, E quipm ent, Output of E lectric\u00ad ity, E mployees, and Salaries and W ages [Note.\u2014See headnote to Table 437] All companies Surface l"
+      },
+      {
+        "page_number": 439,
+        "matched_patterns": [
+          "SINGLE TRACK"
+        ],
+        "snippet": "4 1 4 ELECTRIC RAILWAYS No. 4 4 0 .\u2014 ELECTRIC R A ILW A Y S: M il e a g e a n d N u m b e r o f C a r s a n d B u s s e s O p e r a t e d in t h e U n it e d S t a t e s a b o u t J u l y 1, 1923 [Not"
+      },
+      {
+        "page_number": 441,
+        "matched_patterns": [
+          "TRACK MILEAGE"
+        ],
+        "snippet": "4 1 6 ELECTRIC RAILWAYS No. 4 4 2 . \u2014 TRACK MILEAGE, PASSENGERS, PASSENGER REVENUE, CAR ELECTRIC RAIL [Note.\u2014See headnote to Table 437. The statistics of track mileage represent that actually lyin g i"
+      },
+      {
+        "page_number": 443,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "4 1 8 ELECTRIC RAILWAYS----ALASKAN RAILWAY No. 4 4 3 . \u2014 RECEIVERSHIPS OF ELECTRIC R AILW AYS Placed under receivership Sold under foreclosure Year Num\u00ad ber of Miles of Outstanding securities Num\u00ad ber"
+      },
+      {
+        "page_number": 880,
+        "matched_patterns": [
+          "RAILWAY MILEAGE"
+        ],
+        "snippet": "Mo. 0 9 8 .\u2014 P e r C a p i t a F o r e i g n T r a d e a n d I n t e n s i t y o f R a i l w a y , T e l e g r a p h , a n d P o s t a l D e v e l o p m e n t o f t h e P r i n c i p a l C o u n t r i"
+      }
+    ]
+  },
+  "1924": {
+    "pdf": "data/raw/saus_1924.pdf",
+    "candidate_pages": [
+      8,
+      374,
+      375,
+      376,
+      378,
+      387,
+      388,
+      399,
+      400,
+      401,
+      403
+    ],
+    "matches": [
+      {
+        "page_number": 8,
+        "matched_patterns": [
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "CONTENTS IX POSTAL SERVICE Table Page 312. Statistical Summary of the P ostal Service: 1800 to 1924.............................................................. 323 313. P rincipal Items of R evenue,"
+      },
+      {
+        "page_number": 374,
+        "matched_patterns": [
+          "RAILROAD MILEAGE",
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "STEAM AND ELECTRIC RAILWAYS AND EXPRESS COM. PANIES General Note\u2014The total steam railroad mileage of the United States includes: (a) Regular inter\u00ad state carriers (and their nonoperating subsidiaries)"
+      },
+      {
+        "page_number": 375,
+        "matched_patterns": [
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "358 RAILROADS No. 3 5 0 . \u2014 R A IL W A Y MILEAGE OWNED: B y S t a t e s [Note.\u2014 See note to Table 349. Includes reporting, circular, and unofficial railways, but since 1908 excludes switching and term"
+      },
+      {
+        "page_number": 376,
+        "matched_patterns": [
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "RAILROADS 359 No. 3 5 1 . \u2014 R A ILW AY MILEAGE OWNED AND OPERATED [Note.\u2014 See note to Table 349. Since 1890 tbe columns correspond to the first and third columns of that table. The exact basis of the "
+      },
+      {
+        "page_number": 378,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "No. 35 5.\u2014SUMMARY OF FREIGHT-CAR PERFORMANCE AND EQUIPMENT CONDITION: C l a s s I R o a d s RAILROADS 3 6 1 Month Freight car-miles per car day Percentage of unservice\u00ad able freight cars Percentage of"
+      },
+      {
+        "page_number": 387,
+        "matched_patterns": [
+          "FIRST TRACK"
+        ],
+        "snippet": "3 7 0 RAILROADS [Note.\u2014Data relate to years ended June 30 prior to 1916, to calendar years thereafter. All revenue, expenses, and income not resulting from railway operations and all duplications betw"
+      },
+      {
+        "page_number": 388,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "No. 368.\u2014INCOME ACCOUNT OF CIASS I CARRIERS: R a il w a y Op e r a t io n s RAILROADS 3 71 [No t e \u2014D ata relate only to operating roads. A ll items not resulting from railw ay operations and all dupl"
+      },
+      {
+        "page_number": 399,
+        "matched_patterns": [
+          "MILEAGE OPERATED",
+          "TRACK OPERATED"
+        ],
+        "snippet": "382 ALASKAN RAILWAY----ELECTRIC RAILWAYS No. 3 7 9 . \u2014 A L A SK A N GOVERNMENT RAILROAD TR A FFIC : A n a l y s i s o f S t a \u00ad t i s t i c s o f P a s s e n g e r a n d F r e i g h t S e r v i c e s "
+      },
+      {
+        "page_number": 400,
+        "matched_patterns": [
+          "FIRST TRACK"
+        ],
+        "snippet": "ELECTRIC RAILWAYS 383 No. 3 8 1 . \u2014 ELECTRIC R A IL W A Y S: M i l e a g e , E q u i p m e n t , O u t p u t o f E l e c t r i c \u00ad i t y , T r a f f i c , E m p l o y e e s , a n d S a l a r i e s a n"
+      },
+      {
+        "page_number": 401,
+        "matched_patterns": [
+          "TRACK MILEAGE"
+        ],
+        "snippet": "384 ELECTRIC RAILWAYS No. 3 8 2 . \u2014 ELECTRIC R A IL W A Y S: T r a c k M il e a g e a n d N u m b e r of C a r s an d B u s s e s O p e r a t e d [ N o t e . \u2014 T h is ta b le in clu d e s th e m ile a"
+      },
+      {
+        "page_number": 403,
+        "matched_patterns": [
+          "TRACK MILEAGE"
+        ],
+        "snippet": "386 ELECTRIC RAILWAYS No. 3 8 4 . \u2014 ELECTRIC R A IL W A Y S: (No t e \u2014 See h e a d n o te t o T a b le 379. T h e tra ck m ile a g e rep resen ts th a t a c tu a lly ly in g in e a ch S ta te , b u t "
+      }
+    ]
+  },
+  "1925": {
+    "pdf": "data/raw/saus_1925.pdf",
+    "candidate_pages": [
+      9,
+      386,
+      387,
+      388,
+      390,
+      399,
+      411,
+      412,
+      413,
+      415,
+      829
+    ],
+    "matches": [
+      {
+        "page_number": 9,
+        "matched_patterns": [
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "CLASSES OF TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "X CONTENTS STEAM AND ELECTRIC RAILWAYS AND EXPRESS COMPANIES Table Page 376. Railway Mileage Owned and Mileage Operated: By classes of track, 1890 to 1924________ 371 377. Railway Mileage Owned: By St"
+      },
+      {
+        "page_number": 386,
+        "matched_patterns": [
+          "RAILROAD MILEAGE",
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "STEAM AND ELECTRIC RAILWAYS AND EXPRESS COM\u00ab PANIES General N ote.\u2014The total Steam railroad mileage of the United States includes: (a) Regular inter state carriers (and their nonoperating subsidiaries"
+      },
+      {
+        "page_number": 387,
+        "matched_patterns": [
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "372 RAILROADS N o. 377.\u2014RAILW AY MILEAGE O W NED: By States [Note.\u2014See note to Table 376. Figures relate to June 30 prior to 1920 and Dec. 31 thereafter; they include reporting, circular, and unoffici"
+      },
+      {
+        "page_number": 388,
+        "matched_patterns": [
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "RAILROADS 373 N o. 3 7 8 .\u2014 RAILW AY MILEAGE OW NED A N D OPERATED {Note.\u2014See note to Table 376. Since 1890 the columns correspond to the first and third columns of that table. The exact basis of the "
+      },
+      {
+        "page_number": 390,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "RAILROADS 375 N o. 3 8 2 .\u2014 SUM M ARY OF FREIGHT-CAR PERFO RM ANCE A N D EQ U IPM EN T C O N D IT IO N : C l a s s I C a r r ie r s [Note.\u2014Yearly averages for 1919 and 1920 were as follows: Freight-ca"
+      },
+      {
+        "page_number": 399,
+        "matched_patterns": [
+          "FIRST TRACK"
+        ],
+        "snippet": "384 RAILROADS No. 394.\u2014REVENUES, EXPENSES, AND INCOME OF OPERATING COMPANIES [N o t e \u2014Data relate to years ended June 30 prior to 1916, to calendar years thereafter. All revenue, expenses, and income"
+      },
+      {
+        "page_number": 411,
+        "matched_patterns": [
+          "MILEAGE OPERATED",
+          "TRACK OPERATED"
+        ],
+        "snippet": "3 9 6 ALASKAN RAILWAY----ELECTRIC RAILWAYS No. 406.\u2014ALASKAN GOVERNMENT RAILROAD TRAFFIC: A n a l y s is o f S t a\u00ad t ist ic s o f P a sse n g e r and F r e ig h t S e r v ic e s, Y e a r E nded J u n "
+      },
+      {
+        "page_number": 412,
+        "matched_patterns": [
+          "FIRST TRACK"
+        ],
+        "snippet": "ELECTRIC RAILWAYS 3 9 7 No. 4 0 8 .\u2014ELECTRIC RAILWAYS: M ile a g e, E q u ipm e n t, Ou t p u t o f E l e c t r ic\u00ad it y , T r a f f ic , E m p l o y e e s, and S a l a r ie s and W a g e s [Note.\u2014See"
+      },
+      {
+        "page_number": 413,
+        "matched_patterns": [
+          "TRACK MILEAGE"
+        ],
+        "snippet": "3 9 8 ELECTRIC RAILWAYS No. 40 9 .\u2014ELECTRIC RAILWAYS: T r a c k M ile a g e and N u m b e r o f C a r s and B u s s e s O pe r a t e d [Note.\u2014This table includes the mileage and equipment of street, i"
+      },
+      {
+        "page_number": 415,
+        "matched_patterns": [
+          "TRACK MILEAGE"
+        ],
+        "snippet": "4 0 0 ELECTRIC RAILWAYS No. 4 1 1 \u2014ELECTRIC RAILWAYS: [Note.\u2014See headnote to Table 407. The track mileage represents that actually lying in each State, but conducted in other States. The differences a"
+      },
+      {
+        "page_number": 829,
+        "matched_patterns": [
+          "TRACK MILEAGE"
+        ],
+        "snippet": "814 STATISTICS OF PRINCIPAL COUNTRIES N p , 7 0 6 . r \u2014A r e a , P o p u l a t io n , a n d T r a n s p o r t a t i o n a n d C o m m u n ic a t io n Railways Country Area (square Popula\u00ad tion (thou\u00ad "
+      }
+    ]
+  },
+  "1926": {
+    "pdf": "data/raw/saus_1926.pdf",
+    "candidate_pages": [
+      9,
+      392,
+      393,
+      394,
+      396,
+      405,
+      417,
+      418,
+      419,
+      421
+    ],
+    "matches": [
+      {
+        "page_number": 9,
+        "matched_patterns": [
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "CLASSES OF TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "X CONTENTS STEAM AND ELECTRIC RAILW AYS AND EXPRESS COM PAN IES Tabic Page 38;>. Railway Mileage Owned and Mileage Operated: By classes of track, 1890 to 1925.............. 377 390. Railway Mileage Ow"
+      },
+      {
+        "page_number": 392,
+        "matched_patterns": [
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "RAILROAD MILEAGE",
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "STEAM AND ELECTRIC RAILWAYS AND EXPRESS COMPANIES G e n e r a l N o t e ,\u2014 The total steam railroad mileage o f the United States includes: (a) Regular inter\u00ad state carriers (and their nonoperating su"
+      },
+      {
+        "page_number": 393,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "378 KAILKOADS No. 3 9 0 .\u2014 BAILWAY MILEAGE OWNED: B y S t a t e s [ N o t \u00ae .\u2014 See note to Table 389. Figures relate to June 30 prior to 1920 and Dee. 31 thereafter: they include reporting, circular, "
+      },
+      {
+        "page_number": 394,
+        "matched_patterns": [
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "RAILROADS 3 7 9 Ho. 391,\u2014 RAILWAY MILEAGE OWNED AND OPERATED [Note.\u2014See note to Table 389. Since 1890 the columns correspond to the first and third columns of that table. The eiact basis of the data p"
+      },
+      {
+        "page_number": 396,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "RAILROADS 381 [N o t e.\u2014 Data relate to <3lass I earners. Yearly averages for 1919, 1920, and 1921 were as follows: Freight- car-miles per ear day, 1919, 23.1; 1920, 25.1; 1921, 22.4; percentage of un"
+      },
+      {
+        "page_number": 405,
+        "matched_patterns": [
+          "FIRST TRACK"
+        ],
+        "snippet": "No. 4 0 7 .\u2014 REVENUES, EXPENSES, AND INCOME OF OPERATING COMPANIES JNo t e \u2014 Data relate to years ended June 30 prior to 191$, to calendar years thereafter. The method o f calculating net revenue and "
+      },
+      {
+        "page_number": 417,
+        "matched_patterns": [
+          "MILEAGE OPERATED",
+          "TRACK OPERATED"
+        ],
+        "snippet": "402 ALASKAN RAILWAY\u2014 ELECTRIC RAILWAYS No, 4 1 9 .\u2014 ALASKAN GOVERNMENT RAILROAD TRAFFIC: A n a l y s i s o p ' S t a \u00ad t i s t i c s o f P a s s e n g e r a n d F r e i g h t S e r v i c e s , Y e a r"
+      },
+      {
+        "page_number": 418,
+        "matched_patterns": [
+          "FIRST TRACK"
+        ],
+        "snippet": "Ho. 4 2 1 .\u2014 ELECTRIC RAILWAYS: M i l e a g e , E q u i p m e n t , O u t p u t o r E l e c t r i c \u00ad i t y , T r a f f i c , E m p l o y e e s , a n d S a l a r i e s a n d W a g e s [ N o t e \u2014 S e "
+      },
+      {
+        "page_number": 419,
+        "matched_patterns": [
+          "TRACK MILEAGE"
+        ],
+        "snippet": "404 ELECTRIC RAILWAYS [Note,\u2014 T h is table includes th e m ileage and equ ip m ent of .street, interurban, ?ud electrified steam raib roads, Steam ilocom otives and cars ow n ed b y electric railw ays"
+      },
+      {
+        "page_number": 421,
+        "matched_patterns": [
+          "TRACK MILEAGE"
+        ],
+        "snippet": "ELECTRIC RAILWAYS 406 [N ote.\u2014 See headnote to T able 420. T h e track m ileage represents th at actu a lly ly in g in each State, bu t con ducted in other States, T h e differences am ong th e States"
+      }
+    ]
+  },
+  "1928": {
+    "pdf": "data/raw/saus_1928.pdf",
+    "candidate_pages": [
+      9,
+      396,
+      397,
+      398,
+      409,
+      411,
+      421,
+      422,
+      423,
+      425
+    ],
+    "matches": [
+      {
+        "page_number": 9,
+        "matched_patterns": [
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "CLASSES OF TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "X CONTENTS 19\u2014PUBLIC ROADS AND MOTOR VEHICLES Table Page 384. Rural Highways: Mileage as of December 31,1926, and construction during 1924, 1926, and 1926, by States..................................."
+      },
+      {
+        "page_number": 396,
+        "matched_patterns": [
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "RAILROAD MILEAGE",
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "20. STEAM AND ELECTRIC RAILW AYS AND EXPRESS COMPANIES [D ata in th is section relate to con tin en tal U n ited States u n le ss o th erw ise stated] G e n e r a l N o t e .\u2014 T h e to ta l steam ra i"
+      },
+      {
+        "page_number": 397,
+        "matched_patterns": [
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "3 8 2 RAILROADS No. 4 0 1 .\u2014 RAILWAY MILEAGE OWNED: B y S t a t e s [N o t e .\u2014 See note to Table 400. Figures relate to June 30 prior to 1920 and D ec. 31 thereafter; they include reporting, circular"
+      },
+      {
+        "page_number": 398,
+        "matched_patterns": [
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "RAILROADS 383 N o. 4 0 2 .\u2014 RAILW AY MILEAGE OWNED AND OPERATED [N o t e .\u2014 See n ote to T a b le 400. Since 1890 th e colu m n s corresp on d to th e first an d th ird colu m n s o f th a t table. T "
+      },
+      {
+        "page_number": 409,
+        "matched_patterns": [
+          "FIRST TRACK"
+        ],
+        "snippet": "3 9 4 RAILROADS Wo. 418.\u2014 REVENUES, EXPENSES, AND INCOME OF OPERATING COMPANIES [ N o t e .\u2014 D a ta relate to years en d ed Ju ne 30 p rio r to 1916, to ca len d ar years thereafter. T h e m eth o d o"
+      },
+      {
+        "page_number": 411,
+        "matched_patterns": [
+          "MILEAGE OF ROAD"
+        ],
+        "snippet": "No. 420.\u2014 PRINCIPAL RAILWAY COMPANIES: M i l e s o f R o a d O p e r a t e d a n d 396 RAILROADS [ N o t e . \u2014 1T o t a l s f o r r e g i o n s i n c l u d e R egion and road A ver\u00ad age mileage of roa"
+      },
+      {
+        "page_number": 421,
+        "matched_patterns": [
+          "MILEAGE OPERATED",
+          "TRACK OPERATED"
+        ],
+        "snippet": "4 0 6 ALASKAN RAILWAY----ELECTRIC RAILWAYS N o . 4 3 0 . \u2014 A L A S K A N G O V E R N M E N T R A I L R O A D T R A F F I C : A n a l y s i s o f S t a \u00ad t i s t i c s o f P a s s e n g e r a n d F r e"
+      },
+      {
+        "page_number": 422,
+        "matched_patterns": [
+          "FIRST TRACK"
+        ],
+        "snippet": "ELECTRIC RAILWAYS 4 0 7 No. 432.\u2014 ELECTRIC RAILWAYS: M i l e a g e , E q u i p m e n t , O u t p u t o p E l e c t r ic \u00ad i t y , T r a f f ic , E m p l o y e e s , a n d S a l a r i e s a n d W a g e"
+      },
+      {
+        "page_number": 423,
+        "matched_patterns": [
+          "TRACK MILEAGE"
+        ],
+        "snippet": "No. 4 3 3 .\u2014 ELECTRIC RAILWAYS: T rack M ile a g e a n d N u m b er of C ars a n d B usses O perated [Note\u2014This table includes the mileage and equipment of street, interurban, and electrified steam ra"
+      },
+      {
+        "page_number": 425,
+        "matched_patterns": [
+          "TRACK MILEAGE"
+        ],
+        "snippet": "4 1 0 ELECTRIC RAILWAYS [ N o t e \u2014 See headnote to Table 431. The track mileage represents that actually lying in each State, but conducted in other States. The differences among the States in the re"
+      }
+    ]
+  },
+  "1929": {
+    "pdf": "data/raw/saus_1929.pdf",
+    "candidate_pages": [
+      9,
+      408,
+      409,
+      410,
+      423,
+      424,
+      427,
+      436,
+      437,
+      439
+    ],
+    "matches": [
+      {
+        "page_number": 9,
+        "matched_patterns": [
+          "MILEAGE OF ROAD",
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "CLASSES OF TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "X CONTENTS Table Page 410. Production and Registration of Motor Vehicles: 1900 to 1928________ __________________________ 385 411. Production of Open and Closed Cars: By price groups__________________"
+      },
+      {
+        "page_number": 408,
+        "matched_patterns": [
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "RAILROAD MILEAGE",
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "20.\u2014 STEAM AND ELECTRIC RAILWAYS AND EXPRESS COMPANIES [Data in this section relate to continental United States unless otherwise stated] GENERAL N ote\u2014The total steam railroad mileage of the United S"
+      },
+      {
+        "page_number": 409,
+        "matched_patterns": [
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "3 9 4 RAILROADS No. 4 1 9 .\u2014 RAILWAY MILEAGE OWNED: B y S t a t e s N o t e .\u2014 See h e a d n o te t o T a b le 418. T h e d a ta are fo r th e a ctu a l len g th o f lin e in ea ch S ta te w ith o u t"
+      },
+      {
+        "page_number": 410,
+        "matched_patterns": [
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "m Ho* 4>m\u00bb\u2014 baiew at mileage gw m id a m * c t m i n a N o t e \u2014 S ee n ote to T a b le 418. S ince 1890 th e colu m n s corresp on d t o th e first a n d th ird co lu m n s of that tab le. T h e e x "
+      },
+      {
+        "page_number": 423,
+        "matched_patterns": [
+          "FIRST TRACK"
+        ],
+        "snippet": "408 RAILROADS N o . 4 3 8 .\u2014 R E V E N U E S , E X P E N S E S , A N D IN C O M E O F O P E R A T IN G C O M P A N IE S N ote.\u2014D ata relate to years ended June 30 prior to 1916, to calendar years ther"
+      },
+      {
+        "page_number": 424,
+        "matched_patterns": [
+          "FIRST TRACK"
+        ],
+        "snippet": "RAILROADS 409 No. 439.\u2014 FREIGHT TRAFFIC: T o n n a g e a n d R e v e n u e , 1890 to 1900 N ote.\u2014Includes switching and terminal companies. Further data for freight traffic are presented in Table 435,"
+      },
+      {
+        "page_number": 427,
+        "matched_patterns": [
+          "MILEAGE OF ROAD"
+        ],
+        "snippet": "No. 444.\u2014 PRINCIPAL RAILWAY COMPANIES: M il e s o p R o a d O p e r a t e d a n d 412 RAILROADS N o t e .\u2014 T otals for regions include R e g io n a n d roa d A v e r \u00ad age m ileage o f road op er\u00ad ate"
+      },
+      {
+        "page_number": 436,
+        "matched_patterns": [
+          "MILEAGE OPERATED",
+          "TRACK OPERATED"
+        ],
+        "snippet": "ALASKAN BAILWAY-----ELECTBIC BAIL WAYS 4 2 1 No. 4 5 3 \u2014 ALASKAN GOVERNMENT RAILROAD TRAFFIC: A n a l y s i s o f S t a \u00ad t i s t i c s o f P a s s e n g e r a n d F r e i g h t S e r v i c e s , Y e "
+      },
+      {
+        "page_number": 437,
+        "matched_patterns": [
+          "FIRST TRACK"
+        ],
+        "snippet": "No. 455.\u2014 ELECTRIC RAILWAYS: M i l e a g e , E q u i p m e n t , O u t p u t o f E l e c t r i c \u00ad i t y , T r a f f i c , E m p l o y e e s , a n d S a l a r i e s a n d W a g e s N ote.\u2014See headnote"
+      },
+      {
+        "page_number": 439,
+        "matched_patterns": [
+          "TRACK MILEAGE"
+        ],
+        "snippet": "4 2 4 ELECTRIC RAILWAYS ' No. 457.\u2014 ELECTRIC RAILWAYS: N ote.\u2014See headnote to Table 454. The track mileage represents that actually lying in each State, but conducted in other States. The differences "
+      }
+    ]
+  },
+  "1930": {
+    "pdf": "data/raw/saus_1930.pdf",
+    "candidate_pages": [
+      9,
+      408,
+      409,
+      410,
+      411,
+      423,
+      424,
+      427,
+      436,
+      437,
+      438,
+      439
+    ],
+    "matches": [
+      {
+        "page_number": 9,
+        "matched_patterns": [
+          "MILEAGE OF ROAD",
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "CLASSES OF TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "X CONTEXTS Table Page 412. Rural Highways: Distribution of expenditures, State and local governments, by States....... \u2014_ 383 413. Highway construction under Federal aid: Status as of December 31,1929"
+      },
+      {
+        "page_number": 408,
+        "matched_patterns": [
+          "RAILROAD MILEAGE",
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "30.\u2014 STEAM AND ELECTRIC R AILW AYS AND EXPRESS COMPANIES [D ata in th is section rela te to co n tin en ta l U n ite d States u n le s s o th e rw ise stated] G e n e r a l N o t e \u2014 T h e to ta l ste"
+      },
+      {
+        "page_number": 409,
+        "matched_patterns": [
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "3 9 4 R A IL R O A D S W o . 4 3 3 . \u2014 R A I L W A Y M I L E A G E O W N E D : B y S t a t e s N ote.\u2014See headnote to Table 422. The data are for the actual length of line in each State without duplic"
+      },
+      {
+        "page_number": 410,
+        "matched_patterns": [
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "R A IL R O A D S 3 9 5 N o . 4 2 4 . \u2014 R A H W A Y M I L E A G E O W N E D A N D O P E R A T E D N o t e .\u2014 See n o te t o T a b le 422. Since 1890 th e colu m n s corresp on d t o th e first a n d th"
+      },
+      {
+        "page_number": 411,
+        "matched_patterns": [
+          "MILEAGE OF ROAD"
+        ],
+        "snippet": "Ho. 4 2 6 \u2014 MILEAGE OF ROAD AHD TRACKS OPERATED: C l a s s I C a b - b i e r s , b y D is t r ic t s N o t e .\u2014 Figures include some mileage in Canada operated b y United States companies as follows: "
+      },
+      {
+        "page_number": 423,
+        "matched_patterns": [
+          "FIRST TRACK"
+        ],
+        "snippet": "N o . 4 4 2 .\u2014 REVENUES, EXPENSES, A N D IN C O M E OF O PE R A TIN G COM PAN IES N ote.\u2014B a t a relate t o years e n d e d J u n e 30 p rio r t o 1916, t o ca le n d a r y ears th erea fter. T h e m "
+      },
+      {
+        "page_number": 424,
+        "matched_patterns": [
+          "FIRST TRACK"
+        ],
+        "snippet": "RAILROADS 409 N o t e \u2014 Includes sw itching and term inal com panies. Further data for freight traffic are presented in T able 439, p. 405. T on s are of 2,000 pounds N o. 4 4 3 .\u2014 FREIGHT TRAFFIC: T "
+      },
+      {
+        "page_number": 427,
+        "matched_patterns": [
+          "MILEAGE OF ROAD"
+        ],
+        "snippet": "412 RAILROADS No. 4 4 8 .\u2014 PRINCIPAL RAILW AY COMPANIES : M il e s op R oad O per ated an d N ote.\u2014'Totals for regions include Region and road Aver\u00ad age mileage of road oper- Ton-miles of revenue frei"
+      },
+      {
+        "page_number": 436,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "EXPRESS AND P U LLM A N COM PANIES 421 N o. 4 5 5 .\u2014 EXPRESS C O M P A N IE S: I n com e A c cou n t N o t e .\u2014 In thousands of dollars. M ileage operated b y express com panies, 1929: T otal, 270,890"
+      },
+      {
+        "page_number": 437,
+        "matched_patterns": [
+          "MILEAGE OPERATED",
+          "TRACK OPERATED"
+        ],
+        "snippet": "422 ALASKAN RAILWAY\u2014 ELECTRIC RAILWAYS N o . 4 5 7 .\u2014 A L A SK A N G O V E R N M E N T R A IL R O A D T R A F F IC : A n a l y s is o f S t a \u00ad t is t ic s o f P a s s e n g e r a n d F r e ig h t S e"
+      },
+      {
+        "page_number": 438,
+        "matched_patterns": [
+          "FIRST TRACK"
+        ],
+        "snippet": "ELECTRIC RAILWAYS 4 2 3 N o , 4 5 9 . \u2014 E L E C T R I C R A I L W A Y S : M i l e a g e , E q u i p m e n t , O u t p u t o f E l e c t r ic \u00ad i t y , T r a f f ic , E m p l o y e e s , a n d S a l a "
+      },
+      {
+        "page_number": 439,
+        "matched_patterns": [
+          "TRACK MILEAGE"
+        ],
+        "snippet": "4 2 4 ELECTRIC RAILWAYS N o . 4 6 0 . \u2014 E L E C T R I C R A I L W A Y S : N o t e .\u2014 See h ea d n o te to T a b le 458. T h e tra ck m ileage represents th a t a c tu a lly ly in g in ea ch S tate, b "
+      }
+    ]
+  },
+  "1931": {
+    "pdf": "data/raw/saus_1931.pdf",
+    "candidate_pages": [
+      9,
+      428,
+      429,
+      430,
+      431,
+      443,
+      444,
+      447,
+      456,
+      457,
+      458,
+      459
+    ],
+    "matches": [
+      {
+        "page_number": 9,
+        "matched_patterns": [
+          "MILEAGE OF ROAD",
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "CLASSES OF TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "X CONTENTS Table Page 410. Rural Highways: Expenditures under State departments, by States...................... 398 411. Rural Highways: Total State and local expenditures, by States_________________"
+      },
+      {
+        "page_number": 428,
+        "matched_patterns": [
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "RAILROAD MILEAGE",
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "20.\u2014STEAM AND ELECTRIC RAILWAYS AND EXPRESS COMPANIES [Data in this section relate to continental United States unless otherwise stated] G e n e r a l N o t e \u2014 The total steam railroad mileage of the"
+      },
+      {
+        "page_number": 429,
+        "matched_patterns": [
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "412 RAILROADS No. 4 2 4 .\u2014RAILWAY MILEAGE OWNED: B y S t a t e s N o t e.\u2014See headnote to Table 423. The data are for the actual length of line in each State without duplication. Figures relate to Jun"
+      },
+      {
+        "page_number": 430,
+        "matched_patterns": [
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "RAILROADS 413 No. 4 2 5 .\u2014 RAILWAY MILEAGE OWNED AND OPERATED N ote.\u2014See note to Table 423. Since 1890 the columns correspond to the first and third columns of that table. The exact basis of the data "
+      },
+      {
+        "page_number": 431,
+        "matched_patterns": [
+          "MILEAGE OF ROAD"
+        ],
+        "snippet": "414 RAILROADS No. 4 2 7 .\u2014MILEAGE OF ROAD AND TRACKS OPERATED: C l a s s I C a r \u00ad r i e r s , b y D i s t r i c t s N ote.\u2014Figures include some mileage in Canada operated by United States companies a"
+      },
+      {
+        "page_number": 443,
+        "matched_patterns": [
+          "FIRST TRACK"
+        ],
+        "snippet": "426 RAILROADS No. 4 4 3 .\u2014REVENUES, EXPENSES, AND INCOME OF OPERATING COMPANIES N o t e.\u2014Data relate to years ended June 30 prior to 1916, to calendar years thereafter. The method of calculating net r"
+      },
+      {
+        "page_number": 444,
+        "matched_patterns": [
+          "FIRST TRACK"
+        ],
+        "snippet": "RAILROADS 4 2 7 N ote.\u2014Includes switching and terminal companies. Further data for freight traffic are presented in Table 440, p. 423. Tons are of 2,000 pounds No. 444.\u2014FREIGHT TRAFFIC: T onnage and R"
+      },
+      {
+        "page_number": 447,
+        "matched_patterns": [
+          "MILEAGE OF ROAD"
+        ],
+        "snippet": "No. 449.\u2014 PRINCIPAL RAILWAY COMPANIES: M il e s of R oad O per a ted and N ote.\u2014Totals for regions include 430 RAILROADS Region and road Aver\u00ad age mileage of road oper\u00ad ated, 1930 Ton-miles of revenue"
+      },
+      {
+        "page_number": 456,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "EXPRESS AND PULLMAN COMPANIES 439 No. 456.\u2014EXPRESS COMPANIES: I ncom e A ccount N o t e.\u2014In thousands of dollars. Mileage operated by express companies, 1930: Total, 276,198; steam road, 231,008; elec"
+      },
+      {
+        "page_number": 457,
+        "matched_patterns": [
+          "MILEAGE OPERATED",
+          "TRACK OPERATED"
+        ],
+        "snippet": "No. 4 58 .\u2014THE ALASKA RAILROAD TRAFFIC: A n a ly sis o f Sta tistic s o f P a ssen g er and F r e ig h t Se r v ic e s, Y ea rs E n ded J u n e 30 440 ALASKAN RAILWAY---ELECTRIC RAILWAYS 1929 1930 192"
+      },
+      {
+        "page_number": 458,
+        "matched_patterns": [
+          "FIRST TRACK"
+        ],
+        "snippet": "ELE C T R IC RAILW AYS 441 No. 4 6 0 .\u2014 ELECTRIC RAILWAYS: M il e a g e, E q u ip m e n t, O u t pu t of E le c tr ic\u00ad it y , T r a ff ic, E m pl o y ee s, and Sa la ries and W ages N o t e.\u2014 See head"
+      },
+      {
+        "page_number": 459,
+        "matched_patterns": [
+          "TRACK MILEAGE"
+        ],
+        "snippet": "442 ELEC TR IC RA ILW A Y S Note.\u2014See headnote to Table 459. The track mileage represents that actually lying in each State, but all ducted in other States. The differences among the States in the rel"
+      }
+    ]
+  },
+  "1932": {
+    "pdf": "data/raw/saus_1932.pdf",
+    "candidate_pages": [
+      8,
+      380,
+      381,
+      382,
+      383,
+      395,
+      396,
+      406,
+      407,
+      408,
+      409
+    ],
+    "matches": [
+      {
+        "page_number": 8,
+        "matched_patterns": [
+          "MILEAGE OF ROAD",
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "CLASSES OF TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "CONTENTS IX Table Page 345. Expenditures, Postal Service: By principal items........................................................1................ 332 346. Transportation of Domestic Mails, and Num"
+      },
+      {
+        "page_number": 380,
+        "matched_patterns": [
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "RAILROAD MILEAGE",
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "20.\u2014 STEAM AND ELECTRIC RAILWAYS AND EXPRESS COMPANIES [Data in this section relate to continental United States unless otherwise stated] G eneral N ote.\u2014The total steam railroad mileage of the United"
+      },
+      {
+        "page_number": 381,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "366 RAILROADS No. 3 9 0 .\u2014 RAHWAY MILEAGE OWNED: By S t a t e s N ote.\u2014-See headnote to Table 389. The data are for the actual length of line in each State without duplication. Figures relate to June "
+      },
+      {
+        "page_number": 382,
+        "matched_patterns": [
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "RAILROADS 367 No. 3 9 1 .\u2014 RAILWAY MILEAGE OWNED AND OPERATED Note.\u2014See note to Table 389. Since 1890 the columns correspond to the first and third columns of that table. The exact basis of the data p"
+      },
+      {
+        "page_number": 383,
+        "matched_patterns": [
+          "MILEAGE OF ROAD"
+        ],
+        "snippet": "368 RAILROADS Ho. 3 9 3 .\u2014 MILEAGE OF ROAD AND TRACKS OPERATED: C l a s s I C ar\u00ad r i e r s , b y D is t r i c t s N o t e .\u2014Figures include some mileage in Canada operated by United States companies "
+      },
+      {
+        "page_number": 395,
+        "matched_patterns": [
+          "FIRST TRACK"
+        ],
+        "snippet": "380 BAILBOADS No. 4 0 9 .\u2014 REVENUES, EXPENSES, AND INCOME OF OPERATING COMPANIES N ote.\u2014Data relate to years ended June 30 prior to 1916, to calendar years thereafter. The method of calculating net re"
+      },
+      {
+        "page_number": 396,
+        "matched_patterns": [
+          "FIRST TRACK"
+        ],
+        "snippet": "RAILROADS 381 No. 410.\u2014 FREIGHT TRAFFIC: T o n n a g e a n d R e v e n u e , 1890 t o 1900 N ote.\u2014Includes switching and terminal companies. Further data for freight traffic are presented in Table 406"
+      },
+      {
+        "page_number": 406,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "EXPRESS AND PULLMAN COMPANIES 391 No. 4 2 1 .\u2014 EXPRESS COMPANIES: I n c o m e A c c o u n t N ote.\u2014In thousands of dollars. Mileage operated by express companies, 1931: Total, 271,788; steam road, 228"
+      },
+      {
+        "page_number": 407,
+        "matched_patterns": [
+          "MILEAGE OPERATED",
+          "TRACK OPERATED"
+        ],
+        "snippet": "392 ALASKAN KAILWAY----ELECTRIC RAILWAYS No. 4 2 3 .\u2014 THE ALASKA RAILROAD TRAFFIC: A n a l y s is o f S t a t is t ic s o f P a s s e n g e r a n d F r e ig h t S e r v i c e s , Y e a r s E n d e d J"
+      },
+      {
+        "page_number": 408,
+        "matched_patterns": [
+          "FIRST TRACK"
+        ],
+        "snippet": "ELECTRIC RAILWAYS 393 Ho. 4 2 5 .\u2014 ELECTRIC RAILWAYS: M i l e a g e , E q u i p m e n t , O u t p u t o f E l e c t r ic \u00ad i t y , T r a f f ic , E m p l o y e e s , a n d S a l a r i e s a n d W a g "
+      },
+      {
+        "page_number": 409,
+        "matched_patterns": [
+          "TRACK MILEAGE"
+        ],
+        "snippet": "394 ELECTRIC RAILWAYS N o t e .\u2014 See headnote to Table 424. The track mileage represents that actually lying in each State, but all ducted in other States. The differences among the States in the rela"
+      }
+    ]
+  },
+  "1933": {
+    "pdf": "data/raw/saus_1933.pdf",
+    "candidate_pages": [
+      8,
+      356,
+      357,
+      358,
+      359,
+      369,
+      379,
+      380,
+      381,
+      383
+    ],
+    "matches": [
+      {
+        "page_number": 8,
+        "matched_patterns": [
+          "MILEAGE OF ROAD",
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "CLASSES OF TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "CONTENTS IX Table Page 332. Index Numbers of Union Wage Rates and Hours of Labor.............................................. ................... 306 333. Index Numbers of Union Wage Rates and Hours "
+      },
+      {
+        "page_number": 356,
+        "matched_patterns": [
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "RAILROAD MILEAGE",
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "20.\u2014TRANSPORTATION AIR AND LAND\u2014STEAM AND ELECTRIC RAILWAYS, EXPRESS COMPANIES, AND CIVIL AERONAUTICS [B ata in tliia section relate to con tin en ta l U n ited States u n le ss o th e rw ise M ated] "
+      },
+      {
+        "page_number": 357,
+        "matched_patterns": [
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "342 RAXXjROADS No. 381,\u2014RAILWAY MILEAGE OWNED: B y S t a t e s N o t k .\u2014See headnote to Table 380. The data are for the actual length of line In each State without duplication. Figures relate to June"
+      },
+      {
+        "page_number": 358,
+        "matched_patterns": [
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "RAILROADS 34$ No. 383.\u2014RAHWAY MILEAGE OWNED AND OPERATED Note.\u2014See note to Table 380. Since 1890 the columns correspond to the first and third columns of thw table. The exact basis of the data prior t"
+      },
+      {
+        "page_number": 359,
+        "matched_patterns": [
+          "MILEAGE OF ROAD"
+        ],
+        "snippet": "344 RAILROADS Ho. 384.\u2014MILEAGE OF ROAD AND TRACES OPERATED: CLASS I Cab- r ie r s , b y D is t r ic t s Note.\u2014Figures include some mileage in Canada operated by United States companies as follows: 101"
+      },
+      {
+        "page_number": 369,
+        "matched_patterns": [
+          "FIRST TRACK"
+        ],
+        "snippet": "354 RAIUtOADS No. 399.\u2014 REVENUES, EXPENSES, AND INCOME 0 ? OPERATING COMPANIES N o t e .\u2014 Data relate to years ended June 30 prior to 1016, to calendar years thereafter* The method of calculating net "
+      },
+      {
+        "page_number": 379,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "364 EXPRESS AND PULLMAN COMPANIES No, 408,\u2014EXPRESS COUP ANTES: I n c o m e A c c o t t n t N ote.\u2014In thousands of dollars. Mileage operated by express companies, 1932: Total, 207,846; steam road, 223,"
+      },
+      {
+        "page_number": 380,
+        "matched_patterns": [
+          "MILEAGE OPERATED",
+          "TRACK OPERATED"
+        ],
+        "snippet": "ALASKAN RAILW AY\u2014 ELECTRIC RAILWAYS 365 No. 410.\u2014THE ALASKA RAILROAD TRAFFIC: A n a l y s i s o f S t a t i s t i c s op P a s s e n g e r a n d F r e i g h t S e r v i c e s , Y e a r s E n d e d J u"
+      },
+      {
+        "page_number": 381,
+        "matched_patterns": [
+          "TRACK MILEAGE"
+        ],
+        "snippet": "Ho. 412.\u2014ELECTRIC RAILWAYS: N ote.\u2014See headnote to Table 411. The track mileage represents that actually lying In each State, but all ducted in other States. The differences among the States in the re"
+      },
+      {
+        "page_number": 383,
+        "matched_patterns": [
+          "FIRST TRACK"
+        ],
+        "snippet": "No. 413.\u2014ELECTRIC RAILWAYS: M ile a g e , E q u ip m e n t, O u t p u t o p E l e c t b k v i t t , T r a f f i c , E m p lo y e e s , a n d S a l a r i e s a n d W a g e s N o t e .\u2014 See h e a d n o "
+      }
+    ]
+  },
+  "1934": {
+    "pdf": "data/raw/saus_1934.pdf",
+    "candidate_pages": [
+      8,
+      9,
+      361,
+      362,
+      363,
+      364,
+      374,
+      384,
+      385,
+      386,
+      387
+    ],
+    "matches": [
+      {
+        "page_number": 8,
+        "matched_patterns": [
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "CLASSES OF TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "CONTENTS IX Table Page 340. Weekly Earnings of Factory Labor in Specified States\u2014 . ..............................\u201e . ........... ............ ( 309 341. Average Weekly and Hourly Earnings in Manufact"
+      },
+      {
+        "page_number": 9,
+        "matched_patterns": [
+          "MILEAGE OF ROAD"
+        ],
+        "snippet": "X C O N T E N T S Table Page 393. Mileage of Road and Tracks Operated: By districts...................... ............................................... 349 394. Railway Equipment Installed and Retir"
+      },
+      {
+        "page_number": 361,
+        "matched_patterns": [
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "RAILROAD MILEAGE",
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "26.\u2014TRANSPORTATION, AIR AND LAND\u2014 STEAM AND ELECTRIC RAILWAYS, EXPRESS COPMANIES, AND CIVIL AERONAUTICS [Data in this section relate to continental United States unless otherwise stated] G en era l N "
+      },
+      {
+        "page_number": 362,
+        "matched_patterns": [
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "RAILROADS 347 No. 3 9 0 .\u2014 RAILWAY MILEAGE OWNED: By S t a t e s N ote.\u2014See headnote to Table 389. The data are for the actual length of line in each State without duplication. Figures relate to June "
+      },
+      {
+        "page_number": 363,
+        "matched_patterns": [
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "348 RAILROADS No. 3 9 1 .\u2014 RAILWAY MILEAGE OWNED AND OPERATED N o t e \u2014See note to Table 389. Since 1890 the columns correspond to the first and third columns of that table. The exact basis of the dat"
+      },
+      {
+        "page_number": 364,
+        "matched_patterns": [
+          "MILEAGE OF ROAD"
+        ],
+        "snippet": "RAILROADS 349 No. 3 9 3 .\u2014 MILEAGE OF ROAD AND TRACKS OPERATED: C l a s s I C a r r i e r s , b y D is t r i c t s N ote.\u2014Figures include some mileage in Canada operated by United States companies as "
+      },
+      {
+        "page_number": 374,
+        "matched_patterns": [
+          "FIRST TRACK"
+        ],
+        "snippet": "RAILROADS 359 No. 4 0 8 .\u2014 REVENUES, EXPENSES, AND INCOME OF OPERATING COMPANIES N o t e .\u2014Data relate to years ended June 30 prior to 1916, to calendar years thereafter. The method of calculating net"
+      },
+      {
+        "page_number": 384,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "EXPBESS AND PULLMAN COMPANIES 369 No. 4 1 7 .\u2014 EXPRESS COMPANIES: I n c o m e A c c o u n t N ote .\u2014In thousands of dollars. Mileage operated by express companies, 1933: Total, 266,863; steam road, 22"
+      },
+      {
+        "page_number": 385,
+        "matched_patterns": [
+          "MILEAGE OPERATED",
+          "TRACK OPERATED"
+        ],
+        "snippet": "370 ALASKAN R A IL W A Y ---- ELECTRIC R AILW AYS No. 4 1 9 .\u2014 THE ALASKA RAILROAD TRAFFIC: A n a l y s is o f S t a t is t ic s of P a s s e n g e r a n d F r e ig h t S e r v ic e s , Y e a r s E n "
+      },
+      {
+        "page_number": 386,
+        "matched_patterns": [
+          "FIRST TRACK"
+        ],
+        "snippet": "ELECTRIC RAILWAYS 371 No. 4 2 1 .\u2014 ELECTRIC RAILWAYS: M i l e a g e , E q u i p m e n t , O u t p u t o f E l e c t r i c \u00ad i t y , T r a f f i c , E m p l o y e e s , a n d S a l a r i e s a n d W a "
+      },
+      {
+        "page_number": 387,
+        "matched_patterns": [
+          "TRACK MILEAGE"
+        ],
+        "snippet": "372 ELECTRIC RAILWAYS No. 432.\u2014 ELECTRIC RAILWAYS: N ote.\u2014See headnote to Table 420. The track mileage represents that actually lying in each State, but all ducted in other States. The differences amo"
+      }
+    ]
+  },
+  "1935": {
+    "pdf": "data/raw/saus_1935.pdf",
+    "candidate_pages": [
+      9,
+      377,
+      378,
+      379,
+      390,
+      400,
+      401,
+      402,
+      403
+    ],
+    "matches": [
+      {
+        "page_number": 9,
+        "matched_patterns": [
+          "MILEAGE OF ROAD",
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "CLASSES OF TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "X C O N TE N TS 17. T E L E PH O N E , TE LE G RA PH , AN D CABLE SYSTEM S Table Page 372. Telephone Systems: Equipment, traffic, employees, wages, revenue, and investm ent-................ 333 373. T"
+      },
+      {
+        "page_number": 377,
+        "matched_patterns": [
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "RAILROAD MILEAGE",
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "20.\u2014 TRANSPORTATION, AIR AND LAND\u2014 STEAM AND ELECTRIC RAILWAYS, EXPRESS COMPANIES, AND CIVIL AERONAUTICS [Data in this section relate to continental United States unless otherwise stated] General N ot"
+      },
+      {
+        "page_number": 378,
+        "matched_patterns": [
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "RAILROADS 361 No. 4 0 8.\u2014 RAILWAY MILEAGE OWNED: By S t a t e s Note.\u2014See headnote to table 407. The data are for the actual length of line in each State without duplication. Figures relate to June 30"
+      },
+      {
+        "page_number": 379,
+        "matched_patterns": [
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "362 SAtLEOADS No. 4 0 9.\u2014 BAILWAY MILEAGE OWNED AND OPEBATED N o te\u2014See note to table 407. Since 1890 the columns correspond to the first and third columns of that table. The exact basis of the data p"
+      },
+      {
+        "page_number": 390,
+        "matched_patterns": [
+          "FIRST TRACK"
+        ],
+        "snippet": "RAILROADS 373 No. 4 2 0.\u2014 REVENUES, EXPENSES, AND INCOME OF OPERATING COMPANIES N ote.\u2014D ata relate to years ended June 30 prior to 1916, to calendar years thereafter. The method of calculating net re"
+      },
+      {
+        "page_number": 400,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "EXPRESS AND PULLMAN COMPANIES 383 No. 43 5 .\u2014 EXPRESS COMPANIES: I n c o m e A c c o u n t Note.\u2014-In thousands of dollars. Mileage operated by express companies, 1934: Total, 267,545; steam road, 218,"
+      },
+      {
+        "page_number": 401,
+        "matched_patterns": [
+          "MILEAGE OPERATED",
+          "TRACK OPERATED"
+        ],
+        "snippet": "384 ALASKAN BAILW AY---- ELECTRIC RAILWAYS No. 4 3 7 .\u2014 THE ALASKA RAILROAD TRAFFIC: A n a l y s is o f S t a t is t ic s P a s s e n g e r a n d F r e ig h t S e r v ic e s , Y e a r s E n d e d J u "
+      },
+      {
+        "page_number": 402,
+        "matched_patterns": [
+          "FIRST TRACK"
+        ],
+        "snippet": "ELECTRIC RAILWAYS 385 No. 43 9.\u2014 ELECTRIC RAILWAYS: M i l e a g e , E q u ip m e n t, O u t p u t o f E l e c t r i c \u00ad i t y , T r a f f i c , E m p lo y e e s , a n d S a l a r i e s a n d W a g e s"
+      },
+      {
+        "page_number": 403,
+        "matched_patterns": [
+          "TRACK MILEAGE"
+        ],
+        "snippet": "386 ELECTRIC RAILWAYS N ote.\u2014See headnote to table 438. The track mileage represents that actually lying in each State, but all ducted in other States. The differences among the States in the relation"
+      }
+    ]
+  },
+  "1936": {
+    "pdf": "data/raw/saus_1936.pdf",
+    "candidate_pages": [
+      9,
+      387,
+      388,
+      389,
+      400,
+      410,
+      411,
+      412,
+      413
+    ],
+    "matches": [
+      {
+        "page_number": 9,
+        "matched_patterns": [
+          "MILEAGE OF ROAD",
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "CLASSES OF TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "X CONTENTS 16. PO STAL SE R V IC E Table P age 377. Statistical Summary of the Postal Service: 1800 to 1935________________________________________ 337 378. Revenues, Postal Service: By principal item"
+      },
+      {
+        "page_number": 387,
+        "matched_patterns": [
+          "RAILROAD MILEAGE",
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "20.\u2014TRANSPORTATION, AIR AND LAND\u2014STEAM AND ELECTRIC RAILWAYS, EXPRESS COMPANIES, MOTOR BUSSES, AND CIVIL AERONAUTICS [Data in this section relate to continental United States unless otherwise stated] "
+      },
+      {
+        "page_number": 388,
+        "matched_patterns": [
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "RAILROADS 371 No. 4 2 1 .\u2014RAILWAY MILEAGE OWNED: B y St a t e s Note\u2014See headnote to table 420. The data are for the actual length of line in each State without duplication. Figures relate to June 30 "
+      },
+      {
+        "page_number": 389,
+        "matched_patterns": [
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "372 RAILROADS No. 422.\u2014RAILWAY MILEAGE OWNED AND OPERATED N o t e .\u2014See note to table 420. Since 1890 the columns correspond to the first and third columns o f that table. The exact basis of the data "
+      },
+      {
+        "page_number": 400,
+        "matched_patterns": [
+          "FIRST TRACK"
+        ],
+        "snippet": "BAILROADS 1383 No. 439.\u2014REVENUES, EXPENSES, AND INCOME OF OPERATING COMPANIES Note.\u2014Data relate to years ended June 30 prior to 1916, to calendar years thereafter. The method of calculating net revenu"
+      },
+      {
+        "page_number": 410,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "EXPRESS AKD PtTLLMAK COMPANIES 393 No. 448.\u2014EXPRESS COMPANIES: I n com e A cco u n t N o t e .\u2014 I n thousands o f dollars. Mileage operated by express companies, 1935: Total, 272,606; steam road, 216,"
+      },
+      {
+        "page_number": 411,
+        "matched_patterns": [
+          "SINGLE TRACK",
+          "MILEAGE OPERATED",
+          "TRACK OPERATED"
+        ],
+        "snippet": "394 ALASKAN BAILWAY\u2014 ELECTRIC RAILWAYS No. 450.\u2014THE ALASKA RAILROAD TRAFFIC: A n a l y s is o f St a t is t ic s of P a s se n g e r an d F r e ig h t Se r v ic e s , Y e a r s E n d e d J tine 30 193"
+      },
+      {
+        "page_number": 412,
+        "matched_patterns": [
+          "SINGLE TRACK",
+          "FIRST TRACK"
+        ],
+        "snippet": "ELECTRIC RAILWAYS 395 No. 452.\u2014 ELECTRIC RAILWAYS: M ile a g e , E q u ip m en t, O u tp u t op E l e c t r i c \u00ad it y , T r a f f i c , E m p lo y e e s , a h d S a la r ie s a n d W a g e s N ote.\u2014S"
+      },
+      {
+        "page_number": 413,
+        "matched_patterns": [
+          "TRACK MILEAGE"
+        ],
+        "snippet": "396 ELECTRIC RAILWAYS N ote.\u2014 See headnote to table 451. The track mileage represents that actually lying in each State, but all ducted in other States. The differences among the States in the relatio"
+      }
+    ]
+  },
+  "1937": {
+    "pdf": "data/raw/saus_1937.pdf",
+    "candidate_pages": [
+      9,
+      387,
+      388,
+      389,
+      390,
+      400,
+      410,
+      411,
+      412,
+      413
+    ],
+    "matches": [
+      {
+        "page_number": 9,
+        "matched_patterns": [
+          "MILEAGE OF ROAD",
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "CLASSES OF TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "X CONTENTS T able P age 378. Civilian Conservation Corps: Enrolled strength and amount expended or obligated__________ 335 379. Activities of Offices of the State Employment Service and the National E"
+      },
+      {
+        "page_number": 387,
+        "matched_patterns": [
+          "RAILROAD MILEAGE",
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "19.\u2014TRANSPORTATION, AIR AND LAND\u2014STEAM AND ELECTRIC RAILWAYS, EXPRESS COMPANIES, MOTOR BUSSES, AND CIVIL AERONAUTICS [Data in this section relate to continental United States unless otherwise stated] "
+      },
+      {
+        "page_number": 388,
+        "matched_patterns": [
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "RAILROADS 371 No. 4 2 5 .\u2014 RAILWAY MILEAGE OWNED: By S t a t e s N ote.\u2014See headnote to table 424. The data are for the actual length of line in each State without duplication. Figures relate to June "
+      },
+      {
+        "page_number": 389,
+        "matched_patterns": [
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "372 RAILROADS No. 4 2 6 .\u2014 RAILWAY MILEAGE OWNED AND OPERATED Notb.\u2014See note to table 424. Since 1890 the columns correspond to the first and third columns of that table. The exact basis of the data p"
+      },
+      {
+        "page_number": 390,
+        "matched_patterns": [
+          "MILEAGE OF ROAD"
+        ],
+        "snippet": "RAILROADS 373 No. 4 2 8 .\u2014 MILEAGE OF ROAD AND TRACKS OPERATED: C la s s I C a r r ie r s , b y D is t r ic t s Note.\u2014Figures include some mileage in Canada operated by United States companies as foll"
+      },
+      {
+        "page_number": 400,
+        "matched_patterns": [
+          "FIRST TRACK"
+        ],
+        "snippet": "RAILROADS 383 No. 4 4 3 \u2014 REVENUES, EXPENSES, AND INCOME OF OPERATING COMPANIES Note.\u2014Data relate to years ended June 30 prior to 1916, to calendar years thereafter. The method of calculating net reve"
+      },
+      {
+        "page_number": 410,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "EXPRESS AND PULLMAN COMPANIES 393 No. 4 5 2 .\u2014 EXPRESS COMPANIES: I n c o m e A c c o u n t Note.\u2014In thousands of dollars. Mileage operated by express companies, 1936: Total, 278,924; steam road, 213,"
+      },
+      {
+        "page_number": 411,
+        "matched_patterns": [
+          "SINGLE TRACK",
+          "MILEAGE OPERATED",
+          "TRACK OPERATED"
+        ],
+        "snippet": "394 ALASKAN KAILWAY---- ELECTRIC RAILWAYS No. 4 5 4 .\u2014 THE ALASKA RAILROAD TRAFFIC: A n a ly s is o f S t a t is t ic s o f P a s s e n g e r a n d F r e i g h t S e r v ic e s , Y e a r s E n d e d J"
+      },
+      {
+        "page_number": 412,
+        "matched_patterns": [
+          "SINGLE TRACK",
+          "FIRST TRACK"
+        ],
+        "snippet": "No. 4 5 6 .\u2014 ELECTRIC RAILWAYS: M i l e a g e , E q u ip m e n t, O u t p u t o r E l e c t r i c \u00ad it y , T r a f f i c , E m p lo y e e s , a n d S a la r ie s a n d W a g e s ELECTRIC RAILWAYS 395 "
+      },
+      {
+        "page_number": 413,
+        "matched_patterns": [
+          "TRACK MILEAGE"
+        ],
+        "snippet": "396 ELECTRIC! RAILWAYS Note.\u2014See headnote to table 455. The track mileage represents that actually lying in each St^te, but ail ducted in other States. The differences among the States in the relation"
+      }
+    ]
+  },
+  "1938": {
+    "pdf": "data/raw/saus_1938.pdf",
+    "candidate_pages": [
+      10,
+      394,
+      395,
+      396,
+      407,
+      417,
+      418,
+      419,
+      421
+    ],
+    "matches": [
+      {
+        "page_number": 10,
+        "matched_patterns": [
+          "MILEAGE OF ROAD",
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "CLASSES OF TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "CONTENTS XI 422. State Highways: Funds available and distribution of expenditures_______ ____________________ 368 423. Federal Aid and Emergency Road Construction and Grade Crossing Projects: Status.."
+      },
+      {
+        "page_number": 394,
+        "matched_patterns": [
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "RAILROAD MILEAGE",
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "19.\u2014TRANSPORTATION, AIR AND LAND\u2014STEAM AND ELECTRIC RAILWAYS, EXPRESS COMPANIES, MOTOR BUSSES, AND CIVIL AERONAUTICS [Data in this section relate to continental United States unless other vise stated]"
+      },
+      {
+        "page_number": 395,
+        "matched_patterns": [
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "378 RAILROADS No. 433.\u2014 RAILWAY MILEAGE OWNED: B t S t a t e s N o t e \u2014 See headnote to table 432. The data are fo r the actual length of line in each State without duplication. Figures relate to Jun"
+      },
+      {
+        "page_number": 396,
+        "matched_patterns": [
+          "RAILWAY MILEAGE OWNED",
+          "RAILWAY MILEAGE",
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "RAILROADS 379 No. 4 3 4 \u2014 RAILWAY MILEAGE OWNED AND OPERATED N o t e .\u2014 See note to table 432. Since 1890 the columns correspond to the first and third columns o f that table. The exact basis of the d"
+      },
+      {
+        "page_number": 407,
+        "matched_patterns": [
+          "FIRST TRACK"
+        ],
+        "snippet": "390 RAILROADS No. 451.\u2014 REVENUES, EXPENSES, AND INCOME OF OPERATING COMPANIES N o t e .\u2014Data relate to years ended June 30 prior to 1916, to calendar years thereafter. The method of calculating net re"
+      },
+      {
+        "page_number": 417,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "400 EXPBESS AND PULLMAN COMPANIES No. 460.\u2014EXPRESS COMPANIES: I n c o m e A c c o u n t Note.\u2014In thousands of dollars. Mileage operated by express companies, 1937: Total, 282,091; steam road, 211,572;"
+      },
+      {
+        "page_number": 418,
+        "matched_patterns": [
+          "SINGLE TRACK",
+          "MILEAGE OPERATED",
+          "TRACK OPERATED"
+        ],
+        "snippet": "ALASKAN RAILWAY\u2014ELECTRIC RAILWAYS 401 No. 462.\u2014 THE ALASKA RAILROAD TRAFFIC: A n a l y s is o f S t a t is t ic s o p P a s s e n g e r a n d F r e ig h t Se r v ic e s , Y e a r s E n d e d J u n e 3"
+      },
+      {
+        "page_number": 419,
+        "matched_patterns": [
+          "TRACK MILEAGE"
+        ],
+        "snippet": "402 ELECTRIC RAILWAYS N ote.\u2014See headnote to table 463. The track mileage represents that actually lying in each State, b u t all ducted in other States. The differences among the States in the relati"
+      },
+      {
+        "page_number": 421,
+        "matched_patterns": [
+          "SINGLE TRACK",
+          "FIRST TRACK"
+        ],
+        "snippet": "No. 465.\u2014 ELECTRIC RAILWAYS: M i l e a g e , E q u i p m e n t , O u t p u t o f E l e c t r i c \u00ad i t y , T r a f f i c , E m p l o y e e s , a n d S a l a r i e s a n d W a g e s 404 ELECTRIC RAILWA"
+      }
+    ]
+  },
+  "1939": {
+    "pdf": "data/raw/saus_1939.pdf",
+    "candidate_pages": [
+      13,
+      423,
+      424,
+      425,
+      436,
+      446,
+      447,
+      448,
+      449
+    ],
+    "matches": [
+      {
+        "page_number": 13,
+        "matched_patterns": [
+          "MILEAGE OF ROAD",
+          "MILEAGE OPERATED",
+          "TRACK MILEAGE"
+        ],
+        "snippet": "XIV CONTENTS Table , Page 449. Motor-vehicle registrations and revenues, by States: 1938. __________________________________ 396 450. Motor-vehicle fatalities in continental United States: 1914 to 193"
+      },
+      {
+        "page_number": 423,
+        "matched_patterns": [
+          "RAILROAD MILEAGE",
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "20. TRANSPORTATION, AIR AND LAND\u2014STEAM AND ELECTRIC RAILWAYS, EXPRESS COMPANIES, MOTOR BUSSES, AND CIVIL AERONAUTICS [Data in this section relate to continental United States unless otherwise stated] "
+      },
+      {
+        "page_number": 424,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "STEAM RAILWAYS 401 N ote.\u2014 See headnote to table 452. The data are for the actual length of line in each State without duplication. Figures relate to June 30 prior to 1920 and Dec. 31 thereafter; they"
+      },
+      {
+        "page_number": 425,
+        "matched_patterns": [
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "402 TRANSPORTATION, AIR AND LAND No. 454.~Steam R a i l w a y s - M i l e s o f R o a d O w n e d a n d O p e r a t e d : 1842 t o 1938 N ote.\u2014See note to table 452. Since 1890 the columns correspond "
+      },
+      {
+        "page_number": 436,
+        "matched_patterns": [
+          "FIRST TRACK"
+        ],
+        "snippet": "STEAM R AILW AYS 413 N o te .\u2014D ata relate to years ended June 30 prior to 1936, to calendar years thereafter. The m ethod of calculating net revenue and net operating incom e is more fully shown in t"
+      },
+      {
+        "page_number": 446,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "STEAM RAILW AYS 423 N ote.\u2014In thousands of dollars. Mileage operated by express companies, 1938: Total, 281,385; steara road, 206,555; electric line, 2,685; steamboat line, 20,575; airplane, 39,289; s"
+      },
+      {
+        "page_number": 447,
+        "matched_patterns": [
+          "MILEAGE OPERATED",
+          "TRACK OPERATED"
+        ],
+        "snippet": "4 2 4 TRANSPORTATION, AIR AND LAND No, 4:82.\" T h e A l a s k a R a i l r o a d \u2014 S u m m a r y o f P a s s e n g e r a n d F r e i g h t S e r v i c e s : Y e a r s E n d e d J u n e 30, 1937 a n d 1"
+      },
+      {
+        "page_number": 448,
+        "matched_patterns": [
+          "SINGLE TRACK",
+          "FIRST TRACK",
+          "TRACK OPERATED",
+          "TRACK MILEAGE"
+        ],
+        "snippet": "No. 484.\u2014 E l e c t r i c R a i l w a y s \u2014 T r a c k M i l e a g e , E q u i p m e n t , T r a f f i c , a n d P e r s o n n e l : 1917 t o 1937 N ote.\u2014See headnote, table 483 ELECTRIC RAILWAYS 425 N"
+      },
+      {
+        "page_number": 449,
+        "matched_patterns": [
+          "TRACK OPERATED",
+          "TRACK MILEAGE"
+        ],
+        "snippet": "426 TRANSPORTATION, AIR AND LAND N o . 4 8 5 . \u2014 E l e c t r i c R a i l w a y s \u2014 T r a c k M i l e a g e , P a s s e n g e r T r a f f i c , P a s s e n g e r R e v e n u e , a n d R e v e n u e C a"
+      }
+    ]
+  },
+  "1940": {
+    "pdf": "data/raw/saus_1940.pdf",
+    "candidate_pages": [
+      13,
+      14,
+      447,
+      448,
+      449,
+      450,
+      460,
+      470,
+      471,
+      472,
+      473
+    ],
+    "matches": [
+      {
+        "page_number": 13,
+        "matched_patterns": [
+          "MILEAGE OF ROAD",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "XIV CONTENTS Table Page 452. Sales to ultimate consumers\u2014Number of customers, energy sold, and revenue from electric service, by class of service, privately owned and municipally owned electric utilit"
+      },
+      {
+        "page_number": 14,
+        "matched_patterns": [
+          "TRACK MILEAGE"
+        ],
+        "snippet": "CONTENTS XV Table Page 495. Steam railways (class I)\u2014Revenue freight, average number of weekly car loadings, by principal commodity groups, by months: 1935 to 1939_____________________________________"
+      },
+      {
+        "page_number": 447,
+        "matched_patterns": [
+          "RAILROAD MILEAGE",
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "20. TEANSPORT ATION, AIR AND LAND\u2014STEAM AND ELECTRIC RAILWAYS, EXPRESS COMPANIES, MOTOR BUSSES, AND CIVIL AERONAUTICS [Data in this section relate to continental United States unless otherwise stated]"
+      },
+      {
+        "page_number": 448,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "St e a m r ailw ays 425 N o t e .\u2014 See headnote to table 471. The data are for the actual length of line in each State without duplication. Figures relate to June 30 prior to 1920 and Dec. 31 thereaft"
+      },
+      {
+        "page_number": 449,
+        "matched_patterns": [
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "426 TRANSPORTATION, AIR AND LAND No. 473.\u2014 S t e a m R a i l w a y s - - M i l e s o f R o a d O w n e d a n d O p e r a t e d : 1842 t o 1939 N ote.\u2014See note to table 471. Since 1890 the columns corr"
+      },
+      {
+        "page_number": 450,
+        "matched_patterns": [
+          "MILEAGE OF ROAD"
+        ],
+        "snippet": "STEAM RAILWAYS 427 No. 4 7 5 .\u2014 Steam R a ilw a y s (C la s s I)\u2014 M ile a g e o f R oad and T r a c k s O p e ra te d , by D is t r ic t s : 1920 t o 1938 N o t e \u2014 Figures include some mileage in Can"
+      },
+      {
+        "page_number": 460,
+        "matched_patterns": [
+          "FIRST TRACK"
+        ],
+        "snippet": "STEAM RAILWAYS 437 N o t e \u2014 Data relate to years ended June 30 prior to 1916, to calendar years thereafter. The method of calculating net revenue and net operating income is more fully shown in table"
+      },
+      {
+        "page_number": 470,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "STEAM RAILWAYS 447 N o t e\u2014In thousands of dollars. Mileage operated by Railway Express Agency, Inc., 1939: Total, 282,31 steam road, 204,793; electric line, 2,555; steamboat line, 20,648; airplane, 4"
+      },
+      {
+        "page_number": 471,
+        "matched_patterns": [
+          "MILEAGE OPERATED",
+          "TRACK OPERATED"
+        ],
+        "snippet": "448 TRANSPORTATION, AIR AND LAND NTo. 501.\u2014 T h e A l a s k a R a i l r o a d \u2014 S u m m a r y o f P a s s e n g e r a n d F r e i g h t S e r v i c e s : Y e a r s E n d e d J u n e 30, 1938 a n d 193"
+      },
+      {
+        "page_number": 472,
+        "matched_patterns": [
+          "SINGLE TRACK",
+          "FIRST TRACK",
+          "TRACK OPERATED",
+          "TRACK MILEAGE"
+        ],
+        "snippet": "ELECTRIC RAILWAYS 449 No. 503.\u2014 E l e c t r i c R a i l w a y s \u2014 T r a c k M i l e a g e , E q u ip m e n t , T r a f f i c , a n d P e r s o n n e l : 1917 t o 1937 N o t e .\u2014See headnote, table 502"
+      },
+      {
+        "page_number": 473,
+        "matched_patterns": [
+          "TRACK OPERATED",
+          "TRACK MILEAGE"
+        ],
+        "snippet": "450 TRANSPORTATION, AIR AND LAND No. 504.\u2014 E l e c t r i c R a i l w a y s \u2014 T r a c k M i l e a g e , P a s s e n g e r T r a f f i c , P a s s e n g e r R e v e n u e , a n d R e v e n u e C a r - M"
+      }
+    ]
+  },
+  "1941": {
+    "pdf": "data/raw/saus_1941.pdf",
+    "candidate_pages": [
+      14,
+      498,
+      499,
+      500,
+      501,
+      511,
+      521,
+      522,
+      523,
+      524
+    ],
+    "matches": [
+      {
+        "page_number": 14,
+        "matched_patterns": [
+          "MILEAGE OF ROAD",
+          "MILEAGE OPERATED",
+          "TRACK MILEAGE"
+        ],
+        "snippet": "CONTENTS XV Table Page 489. Motor vehicles\u2014Factory sales and registrations: 1900 to 1940.............. 452 490. Passenger cars\u2014Factory sales, by wholesale-price classes: 1928 to 1940__________________"
+      },
+      {
+        "page_number": 498,
+        "matched_patterns": [
+          "RAILROAD MILEAGE",
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "20. TRANSPORTATION, AIR AND LAND\u2014 STEAM AND ELECTRIC RAILWAYS, EXPRESS COMPANIES, MOTOR BUSSES, AND CIVIL AERONAUTICS [Data in this section relate to continental United States unless otherwise stated]"
+      },
+      {
+        "page_number": 499,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "No. 498.\u2014 S t e a m R a il w a y s\u2014 M il e s o f R o a d O w n e d , b y S t a t e s : 1860 to 1939 460 TRANSPORTATION, AIR AND LAND N o t e .\u2014 See headnote to table 497. The data are for the actual l"
+      },
+      {
+        "page_number": 500,
+        "matched_patterns": [
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "STEAM RAILWAYS 461 No. 4 9 9 .\u2014 Steam Railways\u2014 Miles of Road Owned and Operated: 1842 to 1940 N ote.\u2014See note to table 497. Since 1890 the columns correspond to the first and third columns of that ta"
+      },
+      {
+        "page_number": 501,
+        "matched_patterns": [
+          "MILEAGE OF ROAD"
+        ],
+        "snippet": "462 TRANSPORTATION, AIR AND LAND No. 501.\u2014 S t e a m R a il w a y s (C l a s s I ) \u2014 M il e a g e o f R o a d a n d T r a c k s O p e r a t e d , b y D is t r ic t s : 1920 t o 1939 N ote\u2014Figures incl"
+      },
+      {
+        "page_number": 511,
+        "matched_patterns": [
+          "FIRST TRACK"
+        ],
+        "snippet": "No. 516.\u2014 S t e a m R a il w a y s\u2014 R e v e n u e s , E x p e n s e s , a n d I n c o m e : 1891 t o 1940 N ote.\u2014Data relate to years ended June 30 prior to 1916, to calendar years thereafter. The met"
+      },
+      {
+        "page_number": 521,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "482 TRANSPORTATION, AIR AND LAND No. 5 2 5 .\u2014 Express Companies\u2014 Income A ccount: 1921 to 1940 N ote.\u2014In thousands of dollars Mileage operated by Railway Express Agency, Tnc., 1940: Total, 285,4541 st"
+      },
+      {
+        "page_number": 522,
+        "matched_patterns": [
+          "MILEAGE OPERATED",
+          "TRACK OPERATED"
+        ],
+        "snippet": "ELECTRIC RAILWAYS 483 No. 527.\u2014T he Alaska Railroad\u2014Summary o p Passenger and Freight Services: Y ears Ended June 30, 1939 and 1940 Road mileage operated- monthly average............. passenger traffi"
+      },
+      {
+        "page_number": 523,
+        "matched_patterns": [
+          "SINGLE TRACK",
+          "FIRST TRACK",
+          "TRACK OPERATED",
+          "TRACK MILEAGE"
+        ],
+        "snippet": "484 TRANSPORTATION, AIR AND LAND No. 529.\u2014 E lectric R a il w a y s\u2014 T rack M il e a g e, E q u ipm en t, T raffic, and Pe r so n n e l: 1917 to 1937 N ote.\u2014See headnote, table 628. ALL COMPANIES 1917"
+      },
+      {
+        "page_number": 524,
+        "matched_patterns": [
+          "TRACK OPERATED",
+          "TRACK MILEAGE"
+        ],
+        "snippet": "ELECTRIC RAILWAYS 485 No. 530.\u2014 E l e c t r ic R a il w a y s \u2014 T r a c k M il e a g e , P a s s e n g e r T r a f f ic , P a s s e n g e r R e v e n u e , a n d R e v e n u e C a r - M il e a g e , b"
+      }
+    ]
+  },
+  "1942": {
+    "pdf": "data/raw/saus_1942.pdf",
+    "candidate_pages": [
+      14,
+      15,
+      502,
+      503,
+      504,
+      505,
+      515,
+      525,
+      526,
+      527,
+      528
+    ],
+    "matches": [
+      {
+        "page_number": 14,
+        "matched_patterns": [
+          "MILEAGE OF ROAD",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "CONTENTS XV Table Page 497. Net monthly bill for specified quantities of electric energy, based on rates as of Dec. 15,1940, and 1941, by cities________________________________________________________"
+      },
+      {
+        "page_number": 15,
+        "matched_patterns": [
+          "TRACK MILEAGE"
+        ],
+        "snippet": "XVI CONTENTS 544. Electric railways\u2014Track mileage, equipment, traffic, and personnel: 1917 to 1937___.................... 502 545. Electric railways\u2014Track mileage, passenger traffic, passenger revenue"
+      },
+      {
+        "page_number": 502,
+        "matched_patterns": [
+          "RAILROAD MILEAGE",
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "20. TRANSPORTATION, AIR AND LAND\u2014STEAM AND ELECTRIC RAILWAYS, EXPRESS COMPANIES, MOTOR BUSSES, AND CIVIL AERONAUTICS [Data in this section relate to continental United States qnless otherwise stated] "
+      },
+      {
+        "page_number": 503,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "478 TRANSPORTATION, AIR AND LAND No. 513.\u2014 Steam Railways\u2014 Miles of Road Owned, by States: 1860 to 1940 N ote.\u2014See headnote to table 512. The data are for the actual length of line in each State witho"
+      },
+      {
+        "page_number": 504,
+        "matched_patterns": [
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "STEAM RAILWAYS 479 No. 5 1 4.\u2014 S t e a m R a i l w a y s \u2014 M i l e s o f R o a d O w n e d a n d O p e r a t e d : 1842 t o 1941 N ote.\u2014 See note to table 512. Since 1890 the columns correspond to the"
+      },
+      {
+        "page_number": 505,
+        "matched_patterns": [
+          "MILEAGE OF ROAD"
+        ],
+        "snippet": "480 T R A N S P O R T A T IO N , A IR A N D L A N D No. 5 1 6 .\u2014 Steam R ailw ays (C lass I)\u2014 M ileage of R oad and T racks Operated, by D istr ic ts: 1920 to 1940 N o t e .\u2014 Figures include some mile"
+      },
+      {
+        "page_number": 515,
+        "matched_patterns": [
+          "FIRST TRACK"
+        ],
+        "snippet": "490 T R A N S P O R T A T IO N , A IR A N D L A N D N o . 531.\u2014 S t e a m R a i l w a y s \u2014 R e v e n u e s , E x p e n s e s , a n d I n c o m e : 1891 t o 1941 N o t e .\u2014 Data relate to years ended "
+      },
+      {
+        "page_number": 525,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "500 T R A N S P O R T A T IO N , A IR A N D L A N D No. 540.\u2014 E xpress C ompanies\u2014 Income A ccount: 1921 to 1941 N o t e .\u2014 In thousands of dollars. Mileage operated by Railway Express Agency, Inc., 1"
+      },
+      {
+        "page_number": 526,
+        "matched_patterns": [
+          "MILEAGE OPERATED",
+          "TRACK OPERATED"
+        ],
+        "snippet": "E L E C T R IC R A IL W A Y S 501 No. 5 4 2 .\u2014 T h e A l a s k a R a i l r o a d \u2014 S u m m a r y o f P a s s e n g e r a n d F r e i g h t S e r v i c e s : Y e a r s E n d e d J u n e 30, 1940 a n d "
+      },
+      {
+        "page_number": 527,
+        "matched_patterns": [
+          "SINGLE TRACK",
+          "FIRST TRACK",
+          "TRACK OPERATED",
+          "TRACK MILEAGE"
+        ],
+        "snippet": "502 T R A N S P O R T A T IO N , A IR A N D L A N D No. 5 4 4 . \u2014 E l e c t r i c R a i l w a y s \u2014 T r a c k M i l e a g e , E q u i p m e n t , T r a f f i c , a n d P e r s o n n e l : 1917 t o 193"
+      },
+      {
+        "page_number": 528,
+        "matched_patterns": [
+          "TRACK OPERATED",
+          "TRACK MILEAGE"
+        ],
+        "snippet": "E L E C T R IC R A IL W A Y S 503 No. 5 4 5 .\u2014 E l e c t r i c R a i l w a y s \u2014 T r a c k M i l e a g e , P a s s e n g e r T r a f f i c , P a s s e n g e r R e v e n u e , a n d R e v e n u e C a r"
+      }
+    ]
+  },
+  "1943": {
+    "pdf": "data/raw/saus_1943.pdf",
+    "candidate_pages": [
+      457,
+      458,
+      459,
+      469,
+      475,
+      476,
+      477
+    ],
+    "matches": [
+      {
+        "page_number": 457,
+        "matched_patterns": [
+          "RAILROAD MILEAGE",
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "18. TRANSPORTATION, AIR AND LAND\u2014 STEAM AND ELECTRIC RAILWAYS, EXPRESS COMPANIES, MOTOR BUSSES, AND CIVIL AERONAUTICS [Data in this section relate to continental United States unless otherwise stated]"
+      },
+      {
+        "page_number": 458,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "No. 50 1.\u2014 S t e a m R a i l w a y s \u2014 M il e s o f R o a d O w n e d , b y St a t e s : 1860 t o 1941 STEAM RAILWAYS 451 Note .\u2014Bee headnote to table 500. The data are for the actual length of line i"
+      },
+      {
+        "page_number": 459,
+        "matched_patterns": [
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "452 TRANSPORTATION, AIR AND LAND No. 502.\u2014 St e a m R a il w a y s (C lass I)\u2014 M il e a g e O p e r a t e d , L o c o m o t iv e s a n d F r e ig h t-C a r C a p a c it y , b y D is t r ic t s: 1920 t"
+      },
+      {
+        "page_number": 469,
+        "matched_patterns": [
+          "FIRST TRACK"
+        ],
+        "snippet": "No. 5 1 7.\u2014 S t e a m R a i l w a y s \u2014 R e v e n u e s , E x p e n s e s , a n d I n c o m e : 1891 t o 1942 462 TR AN SPO R TA TIO N , AIR A N D LAND N o t e .\u2014 D a t a relate to years ended June 30"
+      },
+      {
+        "page_number": 475,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "468 TR AN SPO R TA TIO N , AIR A N D L A N D No. 524.\u2014 E x p r e s s C o m p a n i e s \u2014 I n c o m e A c c o u n t : 1921 t o 1942 N o t e .\u2014 I n thousands of dollars. M ileage operated b y R a ilw ay"
+      },
+      {
+        "page_number": 476,
+        "matched_patterns": [
+          "MILEAGE OPERATED",
+          "TRACK OPERATED"
+        ],
+        "snippet": "No. 526.\u2014 T h e A l a s k a R a il r o a d\u2014 Su m m a r y o f P a s s e n g e r a n d F r e ig h t Se r v ic e s: Y e ar s E n d ed Ju n e 30, 1941 an d 1942 ALASKA R. R.\u2014ELECTRIC RAILWAYS 469 Road mil"
+      },
+      {
+        "page_number": 477,
+        "matched_patterns": [
+          "SINGLE TRACK"
+        ],
+        "snippet": "470 TR AN SPO R TA TIO N , AIR A N D L A ND No. 528.\u2014 T ransit Systems (Cit y, Su b u r b a n, and Interurban)\u2014 R eceiver\u00ad ships and T rusteeships: 1933 to 1942 R E C E IV E R SH IPS A N D TR U STE E "
+      }
+    ]
+  },
+  "1946": {
+    "pdf": "data/raw/saus_1946.pdf",
+    "candidate_pages": [
+      509,
+      510,
+      511,
+      512,
+      522,
+      528,
+      529,
+      530
+    ],
+    "matches": [
+      {
+        "page_number": 509,
+        "matched_patterns": [
+          "RAILROAD MILEAGE"
+        ],
+        "snippet": "20. Transportation, A ir and Land\u2014 Steam and Electric Railways, Express Companies, Motor Busses, and Civil Aeronautics GENERAL NOTE Steam Railways.\u2014 Beacuse of the long period in which it has been sub"
+      },
+      {
+        "page_number": 510,
+        "matched_patterns": [
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "STEAM RAILWAYS 499 No. 5 5 9 .\u2014 S t e a m R a il w a y s\u2014 M il e a g e O w n e d a n d M il e a g e O p e r a t e d : 1890 t o 1944 N o t e.\u2014Beginning with 1908 switching and terminal roads are omitte"
+      },
+      {
+        "page_number": 511,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "500 TRANSPORTATION, AIR AND LAND No. 5 6 0 .\u2014 S t e a m R a il w a y s\u2014 M il e s o f R o a d O w n e d , b y S t a t e s : 1860 t o 1944 Note.\u2014See headnote to table 559. The data are for the actual le"
+      },
+      {
+        "page_number": 512,
+        "matched_patterns": [
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "STEAM RAILWAYS 501 No. 561.\u2014 Steam R ailways (C lass I)\u2014 M ileage Operated. Locomotives and F reight-C ar Capacity: 1 9 2 0 to 1 9 4 4 Note.\u2014Mileage operated includes some duplication due to trackage "
+      },
+      {
+        "page_number": 522,
+        "matched_patterns": [
+          "FIRST TRACK"
+        ],
+        "snippet": "STEAM RAILWAYS 511 No. 576.\u2014 Steam R ailw ays\u2014 R e v e n u es, E x pe n se s, and Incom e: 1891 to 1944 N o te.\u2014Data relate to years ended June 30 prior to 1916, to calendar years thereafter. The meth"
+      },
+      {
+        "page_number": 528,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "EXPRESS COMPANIES----PULLMAN COMPANY 517 No. 583.\u2014 E xpress Com panies\u2014 Income A ccount: 1921 to 1944 N o te.\u2014In thousands of dollars. Mileage operated by Railway Express Agency, Inc., 1944: Total, 27"
+      },
+      {
+        "page_number": 529,
+        "matched_patterns": [
+          "MILEAGE OPERATED",
+          "TRACK OPERATED"
+        ],
+        "snippet": "518 TRANSPORTATION, AIR AND LAND No. 585.\u2014 T he A laska R ailroad\u2014 Summary of P asseng er and F reight Services: Y ears E nded J une 30, 1944 and 1945 ITEM 1944 1945 ITEM 1944 Road mileage operated\u2014 m"
+      },
+      {
+        "page_number": 530,
+        "matched_patterns": [
+          "SINGLE TRACK"
+        ],
+        "snippet": "TRANSIT INDUSTRY 519 No. 5 8 7 .\u2014 T ransit Industry\u2014 Sum m ary: 1930 to 1944 [Data represent the entire transit industry comprising all organized local passenger transportation agencies except taxicab"
+      }
+    ]
+  },
+  "1947": {
+    "pdf": "data/raw/saus_1947.pdf",
+    "candidate_pages": [
+      519,
+      520,
+      522,
+      523,
+      533,
+      539,
+      540,
+      541
+    ],
+    "matches": [
+      {
+        "page_number": 519,
+        "matched_patterns": [
+          "RAILROAD MILEAGE"
+        ],
+        "snippet": "2 0 . T r a n s p o r t a t i o n , A i r a n d L a n d \u2014 S t e a m a n d E l e c t r i c R a i l w a y s , E x p r e s s C o m p a n i e s , M o t o r B u s s e s , a n d C i v i l A e r o n a u t i "
+      },
+      {
+        "page_number": 520,
+        "matched_patterns": [
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "STEAM RAILWAYS 507 No. 556.\u2014 S t e a m R a il w a y s\u2014 M il e a g e Ow n e d a n d M il e a g e O p e b a t e d : 1890 to 1945 [Excludes switching and terminal roads beginning with 1910 (they operate "
+      },
+      {
+        "page_number": 522,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "STEAM RAILWAYS 509 No. 557.\u2014 S tea m R a ilw a y s\u2014 M il e s o f R oad Q w n e d , by S t a t e s: 1860 to 1945 [See headnote, table 556. Data are for actual length of line in each State without dupli"
+      },
+      {
+        "page_number": 523,
+        "matched_patterns": [
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "No. 558*\u2014 S t e a m R a il w a y s (C la ss I)\u2014M il e a g e O p e r a t e d , L o c o m o tiv es a n d F r e ig h t-C a r C a p a c it y : 1920 to 1945 [Mileage operated includes some duplication due "
+      },
+      {
+        "page_number": 533,
+        "matched_patterns": [
+          "FIRST TRACK"
+        ],
+        "snippet": "520 TRANSPORTATION, AIR AND LAND No. 573.\u2014 S t e a m R a i l w a y s \u2014 R e v e n u e s , E x p e n s e s , a n d I n c o m e : 1891 t o 1945 [For years ended June 30 prior to 1916, calendar years ther"
+      },
+      {
+        "page_number": 539,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "526 TRANSPORTATION, AIR AND LAND No. 58 0.\u2014 E x p r e s s C o m p a n ie s\u2014 I n c o m e A c c o u n t : 1921 to 1945 [In thousands of dollars. Mileage operated by Railway Express Agency, Ine., 1945. T"
+      },
+      {
+        "page_number": 540,
+        "matched_patterns": [
+          "MILEAGE OPERATED",
+          "TRACK OPERATED"
+        ],
+        "snippet": "No. 5 8 2 ,\u2014 T he A l a sk a R a ilr o a d\u2014 S u m m a r y o f P a s s e n g e r a n d F r e ig h t S e r v ic e s : Y e a r s E n d e d J u n e 30, 1945 a n d 1946 ALASKA R, R.\u2014 ELECTRIC RAILWAYS 527 "
+      },
+      {
+        "page_number": 541,
+        "matched_patterns": [
+          "SINGLE TRACK"
+        ],
+        "snippet": "528 TRANSPORTATION, AIR AND LAND No. 584.\u2014 T r a n s it I n d u s t r y\u2014 S u m m a r y : 1930 to 1945 [Represents entire transit industry comprising all organized local passenger transportation agenci"
+      }
+    ]
+  },
+  "1948": {
+    "pdf": "data/raw/saus_1948.pdf",
+    "candidate_pages": [
+      527,
+      528,
+      530,
+      542,
+      547,
+      548,
+      549
+    ],
+    "matches": [
+      {
+        "page_number": 527,
+        "matched_patterns": [
+          "RAILROAD MILEAGE"
+        ],
+        "snippet": "20. Transportation, Air and Land\u2014Steam and Electric Railways, Express Companies, Motor Busses, and Civil Aeronautics Steam railways.\u2014 Because of the lo n g perio d in w h ich it has been sub ject to c"
+      },
+      {
+        "page_number": 528,
+        "matched_patterns": [
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "T h e a nn u a l re vie w and sta tistica l num b er of B u s T ra n s p o rta tio n , a M c G r a w -H ill p u b lica tio n , sum m arizes operations of com m on carriers and school busses. Civil aer"
+      },
+      {
+        "page_number": 530,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "STEAM RAILWAYS 521 [See hea d n ote, ta b le 564. D a ta are for actual len gth o f line in each S tate w ith o u t d u p lica tio n . F igu res relate to Ju n e 30 prior to 1920 an d D e c. 31 therea"
+      },
+      {
+        "page_number": 542,
+        "matched_patterns": [
+          "FIRST TRACK"
+        ],
+        "snippet": "STEAM RAILWAYS 533 [F o r years e n d in g J u n e 30 p rio r to 1916, ca len d ar years thereafter. M e th o d o f ca lcu la tin g n e t re v e n u e a n d n e t o p era tin g in co m e is m o re fu "
+      },
+      {
+        "page_number": 547,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "538 TRANSPORTATION, AIR AND LAND No. 5 8 7 ,\u2014 E x p r e s s C o m p a n i e s \u2014 I n c o m e A c c o u n t : 1921 t o 1946 tin th o u sa n d s o f d olla rs. M ile a g e op era ted b y R a ilw a y E x "
+      },
+      {
+        "page_number": 548,
+        "matched_patterns": [
+          "MILEAGE OPERATED",
+          "TRACK OPERATED"
+        ],
+        "snippet": "No. 5 8 9 .\u2014The Alaska Railroad\u2014Summary op Passenger and Freight Services: Years Ending J une 30, 1946 and 1947 ALASKA R. R.----ELECTRIC RAILWAYS 5 3 9 ITEM 1946 1947 ITEM 1946 1947 R o a d m ilea g e"
+      },
+      {
+        "page_number": 549,
+        "matched_patterns": [
+          "SINGLE TRACK"
+        ],
+        "snippet": "540 TRANSPORTATION, AIR AND LAND No. 5 9 1 .\u2014Transit Industry\u2014Summary: 1930 to 1946 Represents e n tire tran sit in d u stry co m p risin g all organized loca l passenger tra n sp o rta tio n agencies"
+      }
+    ]
+  },
+  "1949": {
+    "pdf": "data/raw/saus_1949.pdf",
+    "candidate_pages": [
+      552,
+      553,
+      555,
+      557,
+      562,
+      571,
+      572,
+      573,
+      1037
+    ],
+    "matches": [
+      {
+        "page_number": 552,
+        "matched_patterns": [
+          "RAILROAD MILEAGE"
+        ],
+        "snippet": "2 0 . T r a n s p o r t a t i o n , A i r a n d L a n d \u2014 S t e a m a n d E l e c t r i c R a i l w a y s , E x p r e s s C o m p a n i e s , M o t o r B u s s e s , a n d C i v i l A e r o n a u t i "
+      },
+      {
+        "page_number": 553,
+        "matched_patterns": [
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "538 T R A N SPO R T A TIO N , A IR A N D L A N D tion of safety regulations and the investigation of accidents to civil aircraft. Th6 Civil Aeronautics Administration is an operating agency of the Dep"
+      },
+      {
+        "page_number": 555,
+        "matched_patterns": [
+          "FIRST TRACK",
+          "TRACK OPERATED"
+        ],
+        "snippet": "540 TRANSPORTATION, AIR AND LAND No. 588.\u2014 S t e a m R a i l w a y s \u2014 Su m m a r y S t a t i s t i c s : 1890 t o 1947 [Includes intercorporate duplications. Unless otherwise noted, covers railways o"
+      },
+      {
+        "page_number": 557,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "542 TRANSPORTATION, AIR AND LAND No. 589.\u2014 S t e a m R a i l w a y s \u2014 M i l e s o f R o a d O w n e d , b y S t a t e s : 1860 t o 1947 [D ata are for actual length of line in each State w ithout dup"
+      },
+      {
+        "page_number": 562,
+        "matched_patterns": [
+          "FIRST TRACK"
+        ],
+        "snippet": "STEAM RAILWAYS 547 [M ethod of calculating net revenue and net operating income is more fully shown in table 600. Excludes switch\u00ad ing and term inal companies; operating revenues of switching and term"
+      },
+      {
+        "page_number": 571,
+        "matched_patterns": [
+          "MILEAGE OPERATED",
+          "TRACK OPERATED"
+        ],
+        "snippet": "556 TR A N SPO R T A TIO N , A IR AND LA ND No. 611.\u2014 T h e A la sk a R ailr o ad\u2014 S um m ary of P a sse n g e r an d F r e ig h t S e r v ic e s: Y e a r s E n d in g J u n e 30, 1947 an d 1948 ITEM "
+      },
+      {
+        "page_number": 572,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "E X P R E S S C O M PA N IES 557 No. 6 1 3 .\u2014 E x p r e s s C o m p a n ie s \u2014 I n c o m e A c c o u n t : 1921 t o 1947 [In thousands o f dollars. Mileage operated by Railway Express Agency, Inc., 19"
+      },
+      {
+        "page_number": 573,
+        "matched_patterns": [
+          "SINGLE TRACK"
+        ],
+        "snippet": "558 TRANSPORTATION, AIR AND LAND No. 615.\u2014 T r a n s i t I n d u s t r y \u2014 S u m m a r y : 1930 t o 1947 [R epresen ts entire transit in d u stry com prising all organized local passenger transportati"
+      },
+      {
+        "page_number": 1037,
+        "matched_patterns": [
+          "RAILROADS MILEAGE",
+          "TRACK OPERATED"
+        ],
+        "snippet": "1 0 2 2 H IS T O R IC A L S T A T IS T IC S No. 1 1 0 1 .\u2014 H is t o r ic a l S t a t is t ic s: 1946 to 1948\u2014-Continued [Asterisk (*) denotes series revised for earlier years; for revisions, see table"
+      }
+    ]
+  },
+  "1950": {
+    "pdf": "data/raw/saus_1950.pdf",
+    "candidate_pages": [
+      497,
+      508,
+      509,
+      511,
+      513,
+      518,
+      527,
+      528,
+      529,
+      953
+    ],
+    "matches": [
+      {
+        "page_number": 497,
+        "matched_patterns": [
+          "MILEAGE OF ROAD"
+        ],
+        "snippet": "N o . 5 7 6 . \u2014 E x i s t i n g R u r a l R o a d M i l e a g e , b y T y p e a n d b y G o v e r n m e n t a l C o n t r o l , b y S t a t e s , E n d o f 1947 1 2 3 4 * 6 7 8 [Rural roads include ro"
+      },
+      {
+        "page_number": 508,
+        "matched_patterns": [
+          "RAILROAD MILEAGE"
+        ],
+        "snippet": "21. Transportation, Air and Land\u2014Steam and Electric Railways, Express Companies, Motor Busses, and Civil Aeronautics Steam railways.\u2014 B ecause of th e lo n g p erio d in w h ich i t h a s b e e n su b"
+      },
+      {
+        "page_number": 509,
+        "matched_patterns": [
+          "FIRST TRACK",
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "494 TRANSPORTATION, AIR AND LAND tion of safety regulations and the investigation of accidents to civil aircraft. The Civil Aeronautics Administration is an operating agency of the Department of Com\u00ad "
+      },
+      {
+        "page_number": 511,
+        "matched_patterns": [
+          "FIRST TRACK",
+          "TRACK OPERATED"
+        ],
+        "snippet": "496 TRANSPORTATION, AIR AND LAND No. 592.\u2014 Steam R ailw ays\u2014 Sum m ary Statistics: 1890 to 1948 [Includes intercorporate duplications. Unless otherwise noted, covers railways of Classes I, II, and III"
+      },
+      {
+        "page_number": 513,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "498 TRANSPORTATION, AIR AND LAND No. 593.\u2014Steam Railways\u2014Miles of Road Owned, by States: 1860 to 1948 [ D a t a a r e f o r a c t u a l l e n g t h o f l i n e i n e a c h S t a t e w i t h o u t d u "
+      },
+      {
+        "page_number": 518,
+        "matched_patterns": [
+          "FIRST TRACK"
+        ],
+        "snippet": "STEAM RAILWAYS 503 [Method of calculating net revenue and net operating income is more fully shown in table 604. Excludes switch\u00ad ing and terminal companies; operating revenues of switching and termin"
+      },
+      {
+        "page_number": 527,
+        "matched_patterns": [
+          "MILEAGE OPERATED",
+          "TRACK OPERATED"
+        ],
+        "snippet": "512 TRANSPORTATION, AIR AND LAND No. 615.\u2014 T h e A l a s k a R a il r o a d \u2014 S u m m a r y o f P a s s e n g e r a n d F r e ig h t Se r v ic e s : Y e a r s E n d in g J u n e 30, 1948 a n d 1949 IT"
+      },
+      {
+        "page_number": 528,
+        "matched_patterns": [
+          "MILEAGE OPERATED"
+        ],
+        "snippet": "EXPRESS COMPANIES 513 No. 617.\u2014 E x p r e s s C o m p a n ie s\u2014 I n c om e A c c o u n t: 1921 t o 1948 [In thousands of dollars. Mileage operated by Railway Express'Agency, Inc., 1948: Total, 318,711"
+      },
+      {
+        "page_number": 529,
+        "matched_patterns": [
+          "SINGLE TRACK"
+        ],
+        "snippet": "514 TRANSPORTATION, air and land No. 619.\u2014 T ra n sit I ndustry\u2014 Su m m a r y: 1930 to 1948 Represents entire transit industry comprising all organized local passenger transportation agencies except t"
+      },
+      {
+        "page_number": 953,
+        "matched_patterns": [
+          "RAILROADS MILEAGE",
+          "TRACK OPERATED"
+        ],
+        "snippet": "938 HISTORICAL STATISTICS T able A .\u2014 H istorical Statistics: 1947 to 1949\u2014 Continued [Asterisk (*f denotes series for earlier years; for revisions, see App. I, table B, and 1949 Abstract, table 1102."
+      }
+    ]
+  }
+}

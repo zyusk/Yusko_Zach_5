@@ -6,7 +6,7 @@ In this project I had to learn the hard way that OCR can fully misread a digit, 
 
 This concept came up multiple times as it misread not just numbers, but also categories. For example, it read the 1917 and 1918 years class for Class-I-railways-only subset instead of the full network figure.
  1949 and 1950 stayed out of my final panel. Both years' only automated
-extraction turned out to be real numbers mislabeled with the wrongyear, rather than guess which was right, I left them out and documented exactly why.
+extraction turned out to be real numbers mislabeled with the wrong year, rather than guess which was right, I left them out and documented exactly why.
 
 
 

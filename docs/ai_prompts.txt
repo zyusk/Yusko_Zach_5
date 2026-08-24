@@ -1758,3 +1758,88 @@ this sandbox before handing over the repo-create command (it isn't --
 `gh: command not found`) -- gave the real command for Zach's own
 terminal, not assumed it would just work here, and did NOT run it
 myself per the explicit instruction that he runs that one.
+
+[2026-08-24 16:59 CDT] [User] "I have 9 years where automated OCR
+extraction in ocr.py produces a value that doesn't match my manually-
+verified ground truth in manual_review.csv. All 9 come from page 333,
+the No. 215-shape table (1895-1916 range) [listed all 9: 1905, 1906,
+1908, 1910, 1911, 1912, 1913, 1914, 1916, with automated/manual/diff
+for each]. 1908 and 1913 both look like the same digit confused (8 vs
+3)... 1916 is off by a clean 9000 and the source_pattern note says
+this table has an extra row beyond its declared range for 1916 --
+possibly a row-offset bug. Do this in order: (1) rasterize page 333 at
+high DPI and actually look at the raw table yourself, (2) diagnose
+genuine parsing bug vs. OCR noise with no systematic fix, (3) if real,
+fix the GENERAL parsing logic -- not a per-year override, not
+anything that reads from manual_review.csv as a lookup/target, (4)
+rerun extraction on the FULL panel and report the new match rate, (5)
+explain the root cause in plain language BEFORE writing any code fix
+-- I need to understand and reproduce the explanation myself."
+Did exactly steps 1-2, stopped before any code per step 5's explicit
+ordering -- no fix has been written yet, this entry documents the
+diagnosis only.
+Rasterized page 333 for real at 450 DPI (RASTER_DPI's default is only
+300) and actually looked at it -- not the OCR text output, the real
+rendered image -- via the Read tool. Immediately visible: this page
+carries TWO tables, No. 214 (1837-1916, the one whose caption the
+year-range parser has to specifically avoid) directly above No. 215
+(1895-1916, the real target). Transcribed the full "Single track"
+column by eye directly from the image for all 22 sequential years
+plus the two 1916 variant rows.
+Cross-checked every one of the 9 disputed years against the real
+printed page, not against manual_review.csv's numbers first -- wanted
+to independently confirm what's ACTUALLY printed before trusting
+either side's number. Zoomed to 3-5x magnification on the specific
+digit positions in question, using same-row and same-page year-label
+digits (e.g. the "9" in the "1916" year label itself, printed right
+next to the disputed "259,705" value) as known-ground-truth reference
+glyphs for direct shape comparison, rather than just eyeballing the
+value column in isolation.
+Result: manual_review.csv is correct on all 9 -- the real printed page
+matches Zach's own manually-verified values exactly, not the
+automated pipeline's. Every one of the 9 "automated" values differs
+from the real printed page by exactly ONE misread digit: 3->8 (1905,
+1906, 1908, 1910, 1913 -- 5 of 9), 5->6 (1912, 1914), 3->9 (1911),
+9->0 (1916). The misread digit's POSITION within the number varies
+across rows (leading digit in some, trailing in others) -- flagged
+this specifically as evidence AGAINST a structural column-boundary
+bug, since a real column-offset error would misread the same position
+every time, not a random one.
+Specifically investigated the user's own two hypotheses rather than
+just asserting "it's noise": (1) checked whether 1908/1913's shared
+3<->8 pattern indicated a systematic column-position bug -- ruled out,
+since 1905/1906/1910 ALSO show 3<->8 confusion but at DIFFERENT digit
+positions within their numbers, meaning it's the SAME glyph-confusion
+pair recurring by chance/font-shape-similarity, not the same broken
+column; (2) checked the 1916 "extra row" theory directly -- confirmed
+the row-selection logic correctly picks the calendar-year row (the
+extra row, exactly as designed), and the value it extracts FROM that
+correct row has one misread digit (9->0), not a wrong row. Row-offset
+hypothesis directly disproven, not just talked around.
+Tested one real, generalizable hypothesis empirically before ruling it
+out: re-ran ocr_page_to_grid() on this exact page at 300 (the
+pipeline's real default), 450, and 600 DPI and diffed the resulting
+digit strings. Result: the specific wrong digits SHIFT unpredictably
+between resolutions -- some rows that were wrong at 300 DPI came out
+right at 450 or 600, but different rows that were RIGHT at 300 broke
+at the higher DPIs instead. No single DPI got everything right. This
+rules out "just raise RASTER_DPI" as a dependable general fix --
+genuinely nondeterministic Tesseract noise, not a resolution threshold
+problem.
+Conclusion reported to Zach: this is NOT a parsing bug (column/row/
+schedule logic all verified correct against the real page) -- it's
+real Tesseract character-recognition noise on a genuinely degraded
+1918 scan, the same category of error the module's own comments
+already document elsewhere. No column/row/schedule fix exists to
+write here, because nothing structural is broken. Offered one real,
+generalizable alternative instead of forcing a fake fix: a plausibility
+check using the table's own internal trend (this series is smooth and
+near-monotonic; every one of the 9 wrong values creates an implausible
+local jump relative to its immediate neighbors) that would FLAG a
+suspect row for manual review without trying to guess the correct
+digit -- explicitly not a lookup against manual_review.csv, since it
+only uses the automated data's own shape. Asked Zach whether to
+implement that flag, or leave extraction as-is since manual_review.csv
+already wins in the final panel regardless -- his answer is still
+pending as of this log entry; no code has been written for this
+finding yet.

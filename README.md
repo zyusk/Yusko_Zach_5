@@ -6,15 +6,10 @@ data (see `docs/evidence_no_xls.md`).
 
 ## Setup
 
-Requires Python 3.12 and [uv](https://docs.astral.sh/uv/).
+Requires Python 3.12 and [uv](https://docs.astral.sh/uv/): `uv sync`.
 
-```
-uv sync
-```
-
-This environment's editable install isn't picked up by Python's `site` module
-after `uv sync` — fix (re-run after any fresh sync, since it lives inside the
-regenerated `.venv/`):
+If the editable install isn't on Python's path after sync (`.venv/`
+regenerates each time), add:
 
 ```
 cat > .venv/lib/python3.12/site-packages/sitecustomize.py << 'EOF'
@@ -32,21 +27,22 @@ EOF
 python -m saus_digitizer.build --start 1900 --end 1950
 ```
 
-Builds the panel (`data/saus_railroad_mileage_1900_1950.csv`), validates it
-against a live FRED benchmark, and writes everything under `outputs/`. Tests:
-`uv run pytest` (asserts panel shape, download checksums, validation MAPE).
+Builds the panel, validates against a live FRED benchmark, writes everything
+under `outputs/`. Tests: `uv run pytest`.
 
-## How to Reproduce
+## Reproduce
 
-Setup, then Run (above) regenerate the full pipeline —
-`fetch_saus.py` → `ocr.py --step detect|extract` → `review.py` → `build.py`
-— from the source PDFs. The deliverable CSV lands at
-`data/saus_railroad_mileage_1900_1950.csv` (49 rows, 1900–1948); a
-500-row-capped copy is at `data_snippets/saus_railroad_mileage_snippet.csv`.
-One fixed snapshot, not mechanically re-derivable: `data/interim/manual_review.csv`,
-built from live human review (real judgment calls OCR alone couldn't make).
-Full prompt-by-prompt trail: `docs/ai_prompts.txt`.
+Setup, then Run, regenerate the pipeline — `fetch_saus.py` →
+`ocr.py --step detect|extract` → `review.py` → `build.py` — from source PDFs.
+Deliverable: `data/saus_railroad_mileage_1900_1950.csv` (49 rows, 1900–1948);
+capped copy at `data_snippets/saus_railroad_mileage_snippet.csv`. One fixed,
+non-derivable snapshot: `data/interim/manual_review.csv` (live human review).
+Full prompt trail: `docs/ai_prompts.txt`.
 
-## Scraper options
+## Scraper options (`fetch_saus.py`, Part A)
 
-`fetch_saus.py` (Part A): `--start`/`--end` — first/last year to fetch, inclusive (default 1900/1950). `--raw-dir`/`--manifest` — directory for downloaded PDFs / path for the download manifest CSV (default `data/raw`/`outputs/download_manifest.csv`). `--sleep` — seconds to wait between downloads, politeness delay (default 1.0). `--api-key` — FRASER API key (default: read `FRASER_API_KEY` from environment/`.env`). `--skip-reachability-check` — skip the fast preflight check and go straight to the full harvest. `-v`/`--verbose` — enable debug logging.
+`--start`/`--end` — year range (default 1900/1950). `--raw-dir`/`--manifest`
+— PDF dir / manifest path (default `data/raw`, `outputs/download_manifest.csv`).
+`--sleep` — delay between downloads (default 1.0s). `--api-key` — FRASER key
+(default: `FRASER_API_KEY` env/`.env`). `--skip-reachability-check` — skip
+preflight. `-v`/`--verbose` — debug logging.

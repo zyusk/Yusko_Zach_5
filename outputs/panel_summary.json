@@ -9,5 +9,5 @@
     "1949": "Automated value confirmed mislabeled (saus_1949.pdf Table 587 only reports through 1947 -- the extracted figure is real 1947 data, not 1949; see single_track_mileage_interim.csv's excluded_reason for the full diagnosis). No manual review has been done for this year yet.",
     "1950": "Automated value confirmed mislabeled (saus_1950.pdf Table 591 only reports through 1948 -- the extracted figure is real 1948 data, a Class I subset at that; see single_track_mileage_interim.csv's excluded_reason for the full diagnosis). No manual review has been done for this year yet."
   },
-  "git_commit": null
+  "git_commit": "4f0e71595f0c73bef1d24d136ea5c97c6e6f415f"
 }
